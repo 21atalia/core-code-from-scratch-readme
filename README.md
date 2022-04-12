@@ -10,3 +10,24 @@ Los interpretes ejecutan el código linea por linea sin necesidad de generar un 
 2. Is Java compiled or interpreted, or both?, check the sources and answer the question in your README
 
 Java primero es compilado a un lenguaje intermedio llamado bytecode, JRE se encarga de interpretar el bytecode al que son compilados los programas de Java. ByteCode luego es interpretado por la JVM convirtiéndolo en un lenguaje interpretado.
+
+3. Pseudocode currency converter exercise
+
+vailable Instructions
+
+  Starting point: START
+  Input: READ, GET, GET FROM(<URL>)
+  Output: PRINT
+  Math: +, -, *, /
+  Assignation: <--
+  Initialize: SET, INIT
+  Add one: INCREMENT
+  End point: END
+Algorithm
+
+  1. START
+  2. Amount <-- GET
+  3. BTCprice <-- GET FROM(https://www.coindesk.com/price/bitcoin/)
+  4. Total <-- Amount * BTCprice
+  5. PRINT Total
+  9. END
