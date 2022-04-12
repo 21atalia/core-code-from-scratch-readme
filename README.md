@@ -13,21 +13,12 @@ Java primero es compilado a un lenguaje intermedio llamado bytecode, JRE se enca
 
 3. Pseudocode currency converter exercise
 
-vailable Instructions
+Algoritmo
 
-  Starting point: START
-  Input: READ, GET, GET FROM(<URL>)
-  Output: PRINT
-  Math: +, -, *, /
-  Assignation: <--
-  Initialize: SET, INIT
-  Add one: INCREMENT
-  End point: END
-Algorithm
+  1. INICIO
+  2. Importe <-- OBTENER
+  3. Precio BTC <-- OBTENER DE (https://www.coindesk.com/price/bitcoin/)
+  4. Total <-- Importe * Precio BTC
+  5. IMPRIMIR Total
+  9. FIN
 
-  1. START
-  2. Amount <-- GET
-  3. BTCprice <-- GET FROM(https://www.coindesk.com/price/bitcoin/)
-  4. Total <-- Amount * BTCprice
-  5. PRINT Total
-  9. END
