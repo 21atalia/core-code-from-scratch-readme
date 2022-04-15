@@ -22,3 +22,21 @@ Algoritmo
   5. IMPRIMIR Total
   9. FIN
 
+Week challenges (Wednesday) 
+
+1. Your date of birth in the matrix?
+
+1993 / 2 = 996 R 1
+996 / 2 = 498 R 0
+498 / 2 = 249 R 0
+249 / 2 = 124 R 1
+124 / 2 = 62 R 0
+62 / 2 = 31 R 0
+31 / 2 = 15 R 1
+15 / 2 = 7 R 1
+7 / 2 = 3 R 1
+3 / 2 = 1 R 1
+1 / 2 = 0 R 1
+
+11111001001 
+
