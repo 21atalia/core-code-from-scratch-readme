@@ -42,11 +42,25 @@ Decimal: 1993, Binario: 11111001001
 
 Week challenges (Thursday) 
 
+
 1. Print special numbers exercise
   Solution using For
   for (var i = 0; i <= 100; i +=2) {
     console.log(i)
 };
+
+2. Bad Code exercise
+
+El código estaba usando una asignación en vez de utilizar una expresión de comparación.
+
+
+var cond = false;
+
+if (cond == true) {
+  console.log('The cond variable is true');
+} else {
+  console.log('The cond variable is false');
+}
   
 
 
