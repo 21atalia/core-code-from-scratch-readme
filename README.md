@@ -40,5 +40,15 @@ Week challenges (Wednesday)
 
 Decimal: 1993, Binario: 11111001001 
 
+Week challenges (Thursday) 
+
+1. Print special numbers exercise
+  Solution using For
+  for (var i = 0; i <= 100; i +=2) {
+    console.log(i)
+};
+  
+
+
 
 
