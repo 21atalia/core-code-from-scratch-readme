@@ -38,5 +38,7 @@ Week challenges (Wednesday)
 3 / 2 = 1 R 1
 1 / 2 = 0 R 1
 
-11111001001 
+Decimal: 1993, Binario: 11111001001 
+
+
 
