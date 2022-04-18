@@ -15,12 +15,12 @@ Java primero es compilado a un lenguaje intermedio llamado bytecode, JRE se enca
 
 Algoritmo
 
-  1. INICIO
-  2. Importe <-- OBTENER
-  3. Precio BTC <-- OBTENER DE (https://www.coindesk.com/price/bitcoin/)
-  4. Total <-- Importe * Precio BTC
-  5. IMPRIMIR Total
-  9. FIN
+inicio
+Escribir «Ingresa una cantidad”
+BTCprice = obtener desde(https://www.coindesk.com/price/bitcoin/)
+Total = cantidad * BTCprice
+imprimir Total
+FinAlgoritmo
 
 Week challenges (Wednesday) 
 
