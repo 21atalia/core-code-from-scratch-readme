@@ -40,10 +40,8 @@ Week challenges (Wednesday)
 
 Decimal: 1993, Binario: 11111001001 
 
-MIPS
-Create a program to add two numbers given by the user:
-
-  .data
+MIPS exercise
+.data
         welcome: .asciiz "\n================= Welcome =================\n"
         result: .asciiz "\nThe result is: "
         number_one_msg: .asciiz "\nEnter the first number: "
@@ -89,10 +87,7 @@ Create a program to add two numbers given by the user:
               li $v0, 1
               move $a0, $t2
               syscall
-              
-              
-              
-              Program that display your name:
+Program that display your name:
 
   .data
 	      my_name: .asciiz "\nYosef\n"
