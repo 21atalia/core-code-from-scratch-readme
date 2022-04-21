@@ -138,7 +138,18 @@ if (n == 100) {
 
 Week 2
 
+Week challenges (Tuesday) 
+
+1. Multiply exercise
+
+multiply = function (a, b) {
+  return a * b;
+}
+
+2. ASCII Total exercise
+
 Week challenges (Wednesday) 
+
 1. Holiday VIII - Duty Free exercise
   function dutyFree(normPrice, discount, hol){
   return(Math.floor(hol / normPrice / discount * 100));
