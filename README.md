@@ -150,15 +150,19 @@ Week challenges (Wednesday)
 }
 
 3.Valid Spacing exercise
-   for(let i=0;i<=s.length;i++){
-    if (s[0]==' ' || s[s.length-1]==' '){
-      var validation = false;}
-    else if (s[i]==' ' && s[i+1]==' ' && i>=0 && i<s.length-1 || s[i]==' ' && s[i-1]==' ' && i>0 && i<=s.length-1){
-      var validation = false;}
+  function validSpacing(s) {
+ if (s.length === 0) return true;
+  if (s[0] === ' ' || s[s.length - 1] === ' ') return false;
+  let aSpaces0 = s.split(' ');
+  for (let i = 0, length = aSpaces0.length; i < length; i++) {
+    if (aSpaces0[i] === '') return false;
   }
-if (typeof(validation) == "undefined"){
-  return true;}
-  else {return false};
+  return true;
+ }
+
+4. Fake Binary exercise
+   function fakeBin(x) {
+    return x.split('').map(y => y < 5 ? 0 : 1).join('');
 }
 
 
