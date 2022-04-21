@@ -143,6 +143,11 @@ Week challenges (Wednesday)
   return(Math.floor(hol / normPrice / discount * 100));
 }
 
+2. Twice As Old exercise
+  function twiceAsOld(dadYearsOld, sonYearsOld) {
+  return Math.abs(2 * sonYearsOld - dadYearsOld);
+}
+
 
 
 
