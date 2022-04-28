@@ -316,7 +316,7 @@ function toCamelCase(str){
   return newStr;
 }
 
-4. Unique In Order
+3. Unique In Order
 
 var uniqueInOrder=function(iterable){
   let newArr =[];
