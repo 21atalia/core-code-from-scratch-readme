@@ -328,6 +328,17 @@ var uniqueInOrder=function(iterable){
   return newArr;
 }
 
+Week challenges (Thursday) 
+
+1 Fold An Array exercise
+
+function foldArray(array, runs)
+{
+  const r = [], c = array.slice();
+  while (c.length) r.push(c.pop() + (c.shift() || 0));
+  return runs - 1 ? foldArray(r, runs - 1) : r;
+}
+
 
 
 
