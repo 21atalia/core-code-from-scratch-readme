@@ -354,6 +354,10 @@ var encryptThis = function(text) {
     }
 }
 
+3. ✨Complete your 1st Core Challenge. This is one of the requirements for the certification, where you'll boost your dev professional-brand.
+
+Soy Atalia, Licenciada en Informatica Administrativa. Me estoy certificando para ser una desarrolladora de Software web. 
+
 
 
 
