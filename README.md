@@ -339,6 +339,23 @@ function foldArray(array, runs)
   return runs - 1 ? foldArray(r, runs - 1) : r;
 }
 
+2. Encrypt This! exercise
+
+var encryptThis = function(text) {
+ if(text === '') {return '';
+    }else {
+        let s = text.split(' ');
+        let x = s.map(element => {
+            let a = element.split('');
+            a[0] = element.charCodeAt(0);
+            [a[1], a[a.length - 1]] = [a[a.length - 1], a[1]];
+            return a.join('');});
+      return x.join(' ');
+    }
+}
+
+
+
 
 
 
