@@ -356,9 +356,7 @@ var encryptThis = function(text) {
 
 3. ✨Complete your 1st Core Challenge. This is one of the requirements for the certification, where you'll boost your dev professional-brand.
 
-Soy Atalia, Licenciada en Informática Administrativa. Actualmente me estoy certificando para ser una desarrolladora de Software web en JavaScript, React & Node.js.  Mi anhelo es poder crecer profesionalmente, insertarme en el mundo laboral y diseñar software de acuerdo a la solicitud de los clientes y empresa, además optimizar y ejecutar sistemas de computación que la empresa tenga. Soy una persona proactiva, honesta, responsable dedicada, respetuosa y autodidacta. Creo firmemente que como desarrolladora de software influiré de manera positiva en el mundo y principalmente en muchas mujeres que piensan que este campo es sólo para hombres. Estoy convencida que con mi talento y compromiso contribuir para obtener cambios en el mundo de la industria informática.
-
-
+Soy Atalia, Licenciada en Informática Administrativa. Actualmente me estoy certificando para ser una desarrolladora de Software web en JavaScript, React & Node.js. Mi anhelo es poder crecer profesionalmente, insertarme en el mundo laboral y diseñar software de acuerdo a la solicitud de los clientes y empresa. Soy una persona proactiva, honesta, responsable, dedicada, y autodidacta. Estoy convencida que con mi talento y compromiso contribuiré para obtener cambios en el mundo de la industria informática.
 
 
 
