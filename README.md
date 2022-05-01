@@ -43,6 +43,7 @@ Week challenges (Wednesday)
 Decimal: 1993, Binario: 11111001001 
 
 MIPS exercise
+
 .data
         welcome: .asciiz "\n================= Welcome =================\n"
         result: .asciiz "\nThe result is: "
@@ -89,6 +90,7 @@ MIPS exercise
               li $v0, 1
               move $a0, $t2
               syscall
+	      
 Program that display your name:
 
   .data
@@ -147,6 +149,36 @@ multiply = function (a, b) {
 }
 
 2. ASCII Total exercise
+
+function uniTotal(s) {
+  let newS = [];
+  let finalS;
+  for (let i = 0; i < s.length; i++) {
+    newS.push(s.charCodeAt(i));
+    //console.log("newS:", newS);
+  }
+  if (s === "") return 0;
+  if (s.length === 1) return s.charCodeAt(0);
+  if (newS.length > 1) {
+    finalS = newS.reduce((a, b) => a + b);
+  }
+  return finalS;
+}
+
+3. Char From ASCII Value exercise
+
+function getChar(c) {
+  return String.fromCharCode(c)
+}
+
+Binary Addition exercise
+
+function addBinary(a,b) {
+  let sum = a + b;
+  return sum.toString(2)
+}
+
+
 
 Week challenges (Wednesday) 
 
