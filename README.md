@@ -244,6 +244,20 @@ function shortcut (str) {
   return strArr.join('');
 }
 
+3. Rock Paper Scissors! exercise
+
+const rps = (p1, p2) => {
+  if(p1 == p2) {
+    return 'Draw!'
+  } else if((p1 == 'scissors' && p2 == 'paper') || (p1 == 'paper' && p2 == 'rock') || (p1 == 'rock' && p2 == 'scissors')) {
+    return 'Player 1 won!'
+  } else {
+    return 'Player 2 won!'
+  }
+};
+
+4. Persistent Bugger exercise
+
 
 Week 3
 Week challenges (Monday)
