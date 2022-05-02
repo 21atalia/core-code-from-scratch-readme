@@ -171,18 +171,33 @@ function getChar(c) {
   return String.fromCharCode(c)
 }
 
-Binary Addition exercise
+4. Binary Addition exercise
 
 function addBinary(a,b) {
   let sum = a + b;
   return sum.toString(2)
 }
 
+5. Student's Final Grade exercise
+
+function finalGrade (exam, projects) {
+  if (exam > 90 || projects > 10){
+     return 100;
+ }
+  else if (exam > 75 && projects >= 5){
+     return 90;   
+ }
+  else if (exam > 50 && projects >= 2){
+     return 75;
+ }
+  return 0;
+}
 
 
 Week challenges (Wednesday) 
 
 1. Holiday VIII - Duty Free exercise
+
   function dutyFree(normPrice, discount, hol){
   return(Math.floor(hol / normPrice / discount * 100));
 }
@@ -208,6 +223,26 @@ Week challenges (Wednesday)
     return x.split('').map(y => y < 5 ? 0 : 1).join('');
 }
 
+Week challenges (Thursday)
+
+1. Remove All Exclamation Marks From The End Of Sentence exercise
+
+function remove(s){
+  return s.replace(/!*$/g,"");
+}
+
+2. Vowel Remover exercise
+
+function shortcut (str) {
+   let strArr = str.split('');
+  for (var i = 0; i < str.length; i++) {
+    let char = str[i];
+    if (char == "a" || char == "e" || char == "i" || char == "o" || char == "u") {
+      strArr[i] = '';
+    }
+  }
+  return strArr.join('');
+}
 
 
 Week 3
