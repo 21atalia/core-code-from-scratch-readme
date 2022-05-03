@@ -444,6 +444,14 @@ Week challenges (Tuesday)
 
 1. Simple Pig Latin exercise
 
+/*
+Move the first letter of each word to the end of it, then add "ay" to the end of the word. Leave punctuation marks untouched.
+
+Examples
+pigIt('Pig latin is cool'); // igPay atinlay siay oolcay
+pigIt('Hello world !');     // elloHay orldway !
+*/
+
 function pigIt(str){
   let newArr = [];
   let strArr = str.split(" ")
@@ -461,6 +469,10 @@ function pigIt(str){
 }
 
 2. Counting Duplicates exercise
+
+/*
+Write a function that will return the count of distinct case-insensitive alphabetic characters and numeric digits that occur more than once in the input string. The input string can be assumed to contain only alphabets (both uppercase and lowercase) and numeric digits.
+*/
 
 function duplicateCount(text){
   
@@ -484,9 +496,47 @@ function duplicateCount(text){
   return count
   }
   
+  3. Decode The Morse Code
+
+/*
+In this kata you have to write a simple Morse code decoder. While the Morse code is now mostly superseded by voice and digital data communication channels, it still has its use in some applications around the world.
+*/
+
+decodeMorse = function(morseCode){
+  morseCode = morseCode.trim();
+  let refinedData = morseCode.split('   ');
+  let result = [];
+  
+  for (let i = 0; i < refinedData.length; i++) {
+    let temp = refinedData[i].split(' ');
+    for (let j = 0; j < temp.length; j++) {
+      if (MORSE_CODE[temp[j]]) {
+        result.push(MORSE_CODE[temp[j]]);
+      }
+    }
+    
+    if (i !== refinedData.length - 1) {
+    result.push(' ');
+    }
+  }
+  return result.join('');
+}
+  
+ 
   Week challenges (Wednesday)
   
   1. Valid Parentheses exercise
+
+/*
+Write a function that takes a string of parentheses, and determines if the order of the parentheses is valid. The function should return true if the string is valid, and false if it's invalid.
+
+Examples
+"()"              =>  true
+")(()))"          =>  false
+"("               =>  false
+"(())((()())())"  =>  true
+Constraints
+*/
 
 function validParentheses(parens){
     let parenArr = [];
@@ -510,6 +560,14 @@ function validParentheses(parens){
 
 2. Convert String To Camel Case exercise
 
+/*
+Complete the method/function so that it converts dash/underscore delimited words into camel casing. The first word within the output should be capitalized only if the original word was capitalized (known as Upper Camel Case, also often referred to as Pascal case).
+
+Examples
+"the-stealth-warrior" gets converted to "theStealthWarrior"
+"The_Stealth_Warrior" gets converted to "TheStealthWarrior"
+*/
+
 function toCamelCase(str){
   let newStr = "";
   if(str){
@@ -525,9 +583,21 @@ function toCamelCase(str){
     return newStr
   }
   return newStr;
+
 }
 
+
 3. Unique In Order
+
+/*
+Implement the function unique_in_order which takes as argument a sequence and returns a list of items without any elements with the same value next to each other and preserving the original order of elements.
+
+For example:
+
+uniqueInOrder('AAAABBBCCDAABBB') == ['A', 'B', 'C', 'D', 'A', 'B']
+uniqueInOrder('ABBCcAD')         == ['A', 'B', 'C', 'c', 'A', 'D']
+uniqueInOrder([1,2,2,3,3])       == [1,2,3]
+*/
 
 var uniqueInOrder=function(iterable){
   let newArr =[];
@@ -539,9 +609,15 @@ var uniqueInOrder=function(iterable){
   return newArr;
 }
 
+
 Week challenges (Thursday) 
 
-1 Fold An Array exercise
+1. Fold An Array exercise
+
+/*
+In this kata you have to write a method that folds a given array of integers by the middle x-times.
+*/
+
 
 function foldArray(array, runs)
 {
@@ -551,6 +627,20 @@ function foldArray(array, runs)
 }
 
 2. Encrypt This! exercise
+
+/*
+You want to create secret messages which can be deciphered by the Decipher this! kata. Here are the conditions:
+Your message is a string containing space separated words.
+You need to encrypt each word in the message using the following rules:
+The first letter needs to be converted to its ASCII code.
+The second letter needs to be switched with the last letter
+Keepin' it simple: There are no special characters in input.
+Examples:
+encryptThis("Hello") === "72olle"
+encryptThis("good") === "103doo"
+encryptThis("hello world") === "104olle 119drlo"
+*/
+
 
 var encryptThis = function(text) {
  if(text === '') {return '';
