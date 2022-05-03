@@ -94,7 +94,7 @@ MIPS exercise
 Program that display your name:
 
   .data
-	      my_name: .asciiz "\nYosef\n"
+	      my_name: .asciiz "\nAtaliaf\n"
   .text
 	      main:
               li $v0, 4
