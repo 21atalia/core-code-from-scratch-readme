@@ -1,7 +1,7 @@
 # core-code-from-scratch-readme
-Week 1
+## **Week 1**
 
-Week challenges (Tuesday)
+## Week challenges (Tuesday)
 
 1. Base on this reading and this video, create an explanation about Interpreted And Compiled Programming Languages in your README
 
@@ -143,10 +143,13 @@ Week 2
 Week challenges (Tuesday) 
 
 1. Multiply exercise
-
-multiply = function (a, b) {
+```js
+//multiply = function (a, b) {
   return a * b;
 }
+```
+
+
 
 2. ASCII Total exercise
 
@@ -157,6 +160,7 @@ examples:
 uniTotal("a") == 97 uniTotal("aaa") == 291
 */
 
+```js
 function uniTotal(s) {
   let newS = [];
   let finalS;
@@ -171,6 +175,7 @@ function uniTotal(s) {
   }
   return finalS;
 }
+```
 
 3. Char From ASCII Value exercise
 
