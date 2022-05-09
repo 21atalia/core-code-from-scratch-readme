@@ -2,7 +2,7 @@
 
 ## _Index_
 
-# Week 1 : [](Week challenges (Tuesday))
+# Week 1 : [(Week challenges (Tuesday))]
 
 Week challenges (Tuesday)
 
