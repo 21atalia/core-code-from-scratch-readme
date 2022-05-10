@@ -28,7 +28,7 @@ FinAlgoritmo
 ### Week challenges (Wednesday) 
 
 1. Your date of birth in the matrix?
-
+```js
 1993 / 2 = 996 R 1
 996 / 2 = 498 R 0
 498 / 2 = 249 R 0
@@ -42,9 +42,10 @@ FinAlgoritmo
 1 / 2 = 0 R 1
 
 Decimal: 1993, Binario: 11111001001 
+```
 
 MIPS exercise
-
+```js
 .data
         welcome: .asciiz "\n================= Welcome =================\n"
         result: .asciiz "\nThe result is: "
@@ -91,9 +92,10 @@ MIPS exercise
               li $v0, 1
               move $a0, $t2
               syscall
+	      ```
 	      
 Program that display your name:
-
+```js
   .data
 	      my_name: .asciiz "\nAtalia\n"
   .text
@@ -101,23 +103,24 @@ Program that display your name:
               li $v0, 4
               la $a0, my_name
               syscall
+	        ```
 
 
 
 Week challenges (Thursday) 
 
-
+```js
 1. Print special numbers exercise
   Solution using For
   for (var i = 0; i <= 100; i +=2) {
     console.log(i)
 };
-
+  ```
+  
 2. Bad Code exercise
 
 El código estaba usando una asignación en vez de utilizar una expresión de comparación.
-
-
+```js
 var cond = false;
 
 if (cond == true) {
@@ -125,9 +128,11 @@ if (cond == true) {
 } else {
   console.log('The cond variable is false');
 }
+  ```
 
 3. Bad Code 2 exercise
 
+```js
 var n = 100;
 
 if (n == 100) {
@@ -137,4 +142,5 @@ if (n == 100) {
 } else {
   console.log('Just a regular number');
 }
+  ```
 
