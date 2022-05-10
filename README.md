@@ -3,6 +3,7 @@
 ## _Index_
 
 - [Week 1 : Introduction to programming & Javascript](Repository/Week1.md)
+- [Week 2 : Javascript](Repository/Week2.md)
 
 
 ## **Week 2**
