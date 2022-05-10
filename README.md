@@ -2,7 +2,7 @@
 
 ## _Index_
 
-## Week 1 : Introduction to programming & Javascript
+- [Week 1 : Introduction to programming & Javascript](Repository/Week1.md)
 
 Week challenges (Tuesday)
 
