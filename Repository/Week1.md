@@ -1,4 +1,4 @@
-# Week 1 : Introduction to programming & Javascript
+## Week 1 : Introduction to programming & Javascript
 
 ### Week challenges (Tuesday)
 
