@@ -1,12 +1,16 @@
 # Week 1 : Introduction to programming & Javascript
 
-# Week challenges (Tuesday)
+## Week challenges (Tuesday)
+
+
 
 **1. Base on this reading and this video, create an explanation about Interpreted And Compiled Programming Languages in your README**
 
 Los lenguajes compilados son los que se convierten a código maquina y son ejecutados de manera mas rapida por el procesador, un compilador recoge todo el código fuente y lo combina en un archivo ejecutable para una arquitectura especifica de procesador. 
 
 Los interpretes ejecutan el código linea por linea sin necesidad de generar un archivo unico cada vez que se realiza un cambio. Es como una maquina que siempre acepta nuevas entradas para entregar la salida en el momento.
+
+
 
 
 **2. Is Java compiled or interpreted, or both?, check the sources and answer the question in your README**
@@ -92,9 +96,10 @@ MIPS exercise
               li $v0, 1
               move $a0, $t2
               syscall
-	      ```
+```
 	      
 Program that display your name:
+
 ```js
   .data
 	      my_name: .asciiz "\nAtalia\n"
@@ -103,7 +108,7 @@ Program that display your name:
               li $v0, 4
               la $a0, my_name
               syscall
-	        ```
+```
 
 
 
@@ -120,6 +125,7 @@ Week challenges (Thursday)
 2. Bad Code exercise
 
 El código estaba usando una asignación en vez de utilizar una expresión de comparación.
+
 ```js
 var cond = false;
 
@@ -128,7 +134,7 @@ if (cond == true) {
 } else {
   console.log('The cond variable is false');
 }
-  ```
+```
 
 3. Bad Code 2 exercise
 
@@ -142,5 +148,5 @@ if (n == 100) {
 } else {
   console.log('Just a regular number');
 }
-  ```
+```
 
