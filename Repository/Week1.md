@@ -1,6 +1,6 @@
 # Week 1 : Introduction to programming & Javascript
 
-## Week challenges (Tuesday)
+### Week challenges (Tuesday)
 
 
 
@@ -112,7 +112,7 @@ Program that display your name:
 
 
 
-Week challenges (Thursday) 
+### Week challenges (Thursday) 
 
 ```js
 1. Print special numbers exercise
