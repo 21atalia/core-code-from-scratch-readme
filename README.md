@@ -1,5 +1,7 @@
 <h1 align="center"> core-code-from-scratch-readme</h1>
 
+<h1 align="center">Challenges</h1>
+
 ## _Index_
 
 - [Week 1 : Introduction to programming & Javascript](Repository/Week1.md)
