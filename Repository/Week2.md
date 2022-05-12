@@ -76,7 +76,7 @@ function finalGrade (exam, projects) {
 ```
 
 2. Twice As Old exercise
-3. 
+
 ```js
 function twiceAsOld(dadYearsOld, sonYearsOld) {
   return Math.abs (2 * sonYearsOld - dadYearsOld)
