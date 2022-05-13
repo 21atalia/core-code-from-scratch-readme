@@ -18,6 +18,12 @@
 1. What's Your Poison? exercise
 
 
+function find(rats) {
+  return rats.reduce((a,b)=>a+Math.pow(2,b),0)
+}
+
+
+
 
 
 2. Array.diff exercise
