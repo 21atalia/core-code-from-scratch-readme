@@ -1,6 +1,6 @@
 <h1 align="center"> core-code-from-scratch-readme</h1>
 
-<h1 align="center">Challenges</h1>
+<h1 align="center">*Challenges of the week</h1>*
 
 ## _Index_
 
