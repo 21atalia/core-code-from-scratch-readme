@@ -1,4 +1,4 @@
-## Week 5 : Typescript
+## Week 6 : Typescript
 
 ### Week challenges (Monday) 
 
