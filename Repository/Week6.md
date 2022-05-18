@@ -58,4 +58,9 @@ export class G964 {
 
 3. Valid Braces exercise, using Typescript
 
+### Week challenges (Wednesday)
+
+1. Duplicate Encoder exercise
+
+
 
