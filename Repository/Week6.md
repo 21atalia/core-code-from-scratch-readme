@@ -31,3 +31,17 @@ export function warnTheSheep(queue: string[]): string {
   `Oi! Sheep number ${queue.length-1-index}! You are about to be eaten by a wolf!`;
 }
 ```
+
+### Week challenges (Tuesday) 
+
+1. A Rule Of Divisibility By 13 exercise, using Typescript
+
+```js
+export class G964 {
+
+    public static digPow = (n: number, p: number) => {
+      let arr = n.toString().split('').map(Number).reduce((pv,cv,i,arr) => pv+(Math.pow(arr[i],p+i)),0)/n
+        return (''+arr).includes('.') ? -1 : arr  
+    }
+}
+```
