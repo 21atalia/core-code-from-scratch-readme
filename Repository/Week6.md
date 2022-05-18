@@ -34,6 +34,16 @@ export function warnTheSheep(queue: string[]): string {
 
 ### Week challenges (Tuesday) 
 
+1. A Rule Of Divisibility By 13 exercise, using Typescript
+
+```js
+export function thirt(n: number): number {
+  let remainders: number[] = [1, 10, 9, 12, 3, 4];
+  let result = n.toString().split('').reverse().map( (c,i) => parseInt(c)* remainders[i%6]).reduce((p,c) => p += c);
+  return n == result ? result : thirt(result)
+}
+```
+
 2. Playing With Digits exercise, using Typescript
 
 ```js
