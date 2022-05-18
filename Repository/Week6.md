@@ -34,7 +34,7 @@ export function warnTheSheep(queue: string[]): string {
 
 ### Week challenges (Tuesday) 
 
-1. A Rule Of Divisibility By 13 exercise, using Typescript
+2. Playing With Digits exercise, using Typescript
 
 ```js
 export class G964 {
