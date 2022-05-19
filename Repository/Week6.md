@@ -95,5 +95,30 @@ export const findOdd = (xs: number[]): number => {
 };
 ```
 
+4. Sums Of Parts exercise
+
+```js
+export function partsSums(ls: number[]): number[] {
+  let result = [0]
+  for(const n in ls.reverse()){
+    result.push(ls[n]+result[n]);
+  }
+  return result.reverse()
+}
+
+/* -Primero declaré una variable result que es un array que contiene un 0
+- usé un ciclo for In para iterar el array ls pero al revés, en cada iteración
+empujaría al array result, el resultado de la suma del elemento n de ls y el
+elemento n del array result.
+- Después de eso, solo devolvería el array result pero invertido.
+*/
+```
+
+
+
+
+
+
+
 
 
