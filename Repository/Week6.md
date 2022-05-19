@@ -95,6 +95,10 @@ export const findOdd = (xs: number[]): number => {
 };
 ```
 
+3. Which Are In? exercise
+
+
+
 4. Sums Of Parts exercise
 
 ```js
@@ -104,6 +108,21 @@ export function partsSums(ls: number[]): number[] {
     result.push(ls[n]+result[n]);
   }
   return result.reverse()
+}
+```
+
+5. Consecutive Strings exercise
+
+```js
+export function longestConsec(strarr: string[], k: number): string {
+  let longest = "";
+  for(let i=0;k>0 && i<=strarr.length-k;i++){
+    let tempStr = strarr.slice(i,i+k).join("");
+    if(tempStr.length > longest.length){
+      longest = tempStr;
+    }
+  }
+  return longest;
 }
 ```
 
