@@ -95,7 +95,7 @@ export const findOdd = (xs: number[]): number => {
 };
 ```
 
-3. Which Are In? exercise
+[3. Which Are In? exercise](https://www.codewars.com/kata/550554fd08b86f84fe000a58/train/typescript)
 
 ```js
 export class G964 {
