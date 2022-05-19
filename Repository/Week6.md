@@ -97,7 +97,13 @@ export const findOdd = (xs: number[]): number => {
 
 3. Which Are In? exercise
 
-
+```js
+export class G964 {
+  public static inArray(a1: string[], a2: string[]): string[] {
+    return a1.filter(a => a2.some(b => b.includes(a))).sort();
+  }
+}
+```
 
 4. Sums Of Parts exercise
 
