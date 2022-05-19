@@ -75,5 +75,25 @@ export function duplicateEncode(word: string) {
 }
 ```
 
+2. Find The Odd Int exercise
+
+```js
+export const findOdd = (xs: number[]): number => {
+  let count = 0;
+  let arr = xs.sort((a: number, b: number) => a - b);
+  for (let i = 0; i < arr.length; i++) {
+    for (let j = 0; j < arr.length; j++) {
+      if (arr[i] == arr[j]) {
+        count++;
+      }
+    }
+    if (count % 2 !== 0) {
+      return arr[i];
+    } 
+  }
+  return 0;
+};
+```
+
 
 
