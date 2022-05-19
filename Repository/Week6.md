@@ -62,5 +62,18 @@ export class G964 {
 
 1. Duplicate Encoder exercise
 
+```js
+export function duplicateEncode(word: string) {
+    const letterArray = word.toLowerCase().split(""); 
+    let outPutString : string [] = [];
+    for ( const i in letterArray) {
+      outPutString.push(
+        word.toLowerCase().split(letterArray[i]).length - 1 <= 1 ? "(" : ")"
+      );
+    }
+    return outPutString.join("");
+}
+```
+
 
 
