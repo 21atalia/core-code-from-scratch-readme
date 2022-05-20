@@ -132,6 +132,32 @@ export function longestConsec(strarr: string[], k: number): string {
 }
 ```
 
+### Week challenges (Thursday)
+
+'[1. Tile exercise](https://github.com/corecodeio/devguide-from-scratch-2022-02/tree/main/src/technologies/2022/week06/exercises/e14/desc)
+
+```js
+export default class Tile {
+  letter: string;
+  value: number;
+  
+  constructor(letter: string, value: number){
+    this.letter = letter;
+    this.value = value;
+  }
+
+  printTile(){
+    console.log(`
+    ===========================
+      Letter: ${this.letter}
+      Value: ${this.value}
+    ===========================
+`)
+  }
+}
+```
+
+
 
 
 
