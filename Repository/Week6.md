@@ -152,7 +152,7 @@ export default class Tile {
       Letter: ${this.letter}
       Value: ${this.value}
     ===========================
-`)
+   `)
   }
 }
 ```
