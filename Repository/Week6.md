@@ -157,6 +157,41 @@ export default class Tile {
 }
 ```
 
+[2. Time exercise](https://github.com/corecodeio/devguide-from-scratch-2022-02/tree/main/src/technologies/2022/week06/exercises/e15/desc)
+
+```js
+export default class Time{
+    hour: number;
+    minute: number;
+    second: number;
+
+    constructor(hour: number, minute: number, second: number){
+        this.hour = hour;
+        this.minute = minute;
+        this.second = second;
+    }
+
+    printTime(){
+        console.log(`
+        ===========================
+          Hours: ${this.hour}
+          Minutes: ${this.minute}
+          Seconds: ${this.second}
+        ===========================
+       `);
+    }
+
+   
+    getInseconds():number{
+        const minutes = this.hour * 60 + this.minute;
+        return minutes * 60 + this.second;
+    }
+}
+```
+
+
+
+
 
 
 
