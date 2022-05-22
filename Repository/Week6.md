@@ -23,9 +23,7 @@ export class G964 {
 }
 ```
 
-4. Mumbling exercise, using Typescript
-
-
+[4. Mumbling exercise, using Typescript](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/typescript)
 
 ```js
 export function accum(s: string): string {
@@ -33,7 +31,7 @@ export function accum(s: string): string {
 }
 ```
 
-5. A Wolf In Sheep's Clothing exercise, using Typescript
+[5. A Wolf In Sheep's Clothing exercise, using Typescript](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15/train/typescript)
 
 ```js
 export function warnTheSheep(queue: string[]): string {
@@ -45,7 +43,7 @@ export function warnTheSheep(queue: string[]): string {
 
 ### Week challenges (Tuesday) 
 
-1. A Rule Of Divisibility By 13 exercise, using Typescript
+[1. A Rule Of Divisibility By 13 exercise, using Typescript](https://www.codewars.com/kata/564057bc348c7200bd0000ff/train/typescript)
 
 ```js
 export function thirt(n: number): number {
@@ -55,11 +53,10 @@ export function thirt(n: number): number {
 }
 ```
 
-2. Playing With Digits exercise, using Typescript
+[2. Playing With Digits exercise, using Typescript](https://www.codewars.com/kata/5552101f47fc5178b1000050/train/typescript)
 
 ```js
 export class G964 {
-
     public static digPow = (n: number, p: number) => {
       let arr = n.toString().split('').map(Number).reduce((pv,cv,i,arr) => pv+(Math.pow(arr[i],p+i)),0)/n
         return (''+arr).includes('.') ? -1 : arr  
@@ -67,11 +64,14 @@ export class G964 {
 }
 ```
 
-3. Valid Braces exercise, using Typescript
+[3. Valid Braces exercise, using Typescript](https://www.codewars.com/kata/5277c8a221e209d3f6000b56/train/typescript)
+
+
+
 
 ### Week challenges (Wednesday)
 
-1. Duplicate Encoder exercise
+[1. Duplicate Encoder exercise](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/typescript)
 
 ```js
 export function duplicateEncode(word: string) {
@@ -86,7 +86,7 @@ export function duplicateEncode(word: string) {
 }
 ```
 
-2. Find The Odd Int exercise
+[2. Find The Odd Int exercise](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/typescript)
 
 ```js
 export const findOdd = (xs: number[]): number => {
@@ -116,7 +116,7 @@ export class G964 {
 }
 ```
 
-4. Sums Of Parts exercise
+[4. Sums Of Parts exercise](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/train/typescript)
 
 ```js
 export function partsSums(ls: number[]): number[] {
@@ -128,7 +128,7 @@ export function partsSums(ls: number[]): number[] {
 }
 ```
 
-5. Consecutive Strings exercise
+[5. Consecutive Strings exercise](https://www.codewars.com/kata/56a5d994ac971f1ac500003e/train/typescript)
 
 ```js
 export function longestConsec(strarr: string[], k: number): string {
