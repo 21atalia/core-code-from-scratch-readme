@@ -2,7 +2,7 @@
 
 ### Week challenges (Monday) 
 
-[2. Square(n) Sum exercise, using Typescript](https://www.codewars.com/kata/515e271a311df0350d00000f/train/typescript)
+[2. Square(n) Sum exercise](https://www.codewars.com/kata/515e271a311df0350d00000f/train/typescript)
 
 ```js
 export function squareSum(numbers: number[]): number {
@@ -12,7 +12,7 @@ export function squareSum(numbers: number[]): number {
 }
 ```
 
-[3. Growth Of A Population exercise, using Typescript](https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/typescript)
+[3. Growth Of A Population exercise](https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/typescript)
 
 ```js
 export class G964 {
@@ -23,7 +23,7 @@ export class G964 {
 }
 ```
 
-[4. Mumbling exercise, using Typescript](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/typescript)
+[4. Mumbling exercise](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/typescript)
 
 ```js
 export function accum(s: string): string {
@@ -31,7 +31,7 @@ export function accum(s: string): string {
 }
 ```
 
-[5. A Wolf In Sheep's Clothing exercise, using Typescript](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15/train/typescript)
+[5. A Wolf In Sheep's Clothing exercise](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15/train/typescript)
 
 ```js
 export function warnTheSheep(queue: string[]): string {
@@ -43,7 +43,7 @@ export function warnTheSheep(queue: string[]): string {
 
 ### Week challenges (Tuesday) 
 
-[1. A Rule Of Divisibility By 13 exercise, using Typescript](https://www.codewars.com/kata/564057bc348c7200bd0000ff/train/typescript)
+[1. A Rule Of Divisibility By 13 exercise](https://www.codewars.com/kata/564057bc348c7200bd0000ff/train/typescript)
 
 ```js
 export function thirt(n: number): number {
@@ -53,7 +53,7 @@ export function thirt(n: number): number {
 }
 ```
 
-[2. Playing With Digits exercise, using Typescript](https://www.codewars.com/kata/5552101f47fc5178b1000050/train/typescript)
+[2. Playing With Digits exercise](https://www.codewars.com/kata/5552101f47fc5178b1000050/train/typescript)
 
 ```js
 export class G964 {
@@ -64,7 +64,7 @@ export class G964 {
 }
 ```
 
-[3. Valid Braces exercise, using Typescript](https://www.codewars.com/kata/5277c8a221e209d3f6000b56/train/typescript)
+[3. Valid Braces exercise](https://www.codewars.com/kata/5277c8a221e209d3f6000b56/train/typescript)
 
 
 
@@ -145,7 +145,7 @@ export function longestConsec(strarr: string[], k: number): string {
 
 ### Week challenges (Thursday)
 
-'[1. Tile exercise](https://github.com/corecodeio/devguide-from-scratch-2022-02/tree/main/src/technologies/2022/week06/exercises/e14/desc)
+[1. Tile exercise](https://github.com/corecodeio/devguide-from-scratch-2022-02/tree/main/src/technologies/2022/week06/exercises/e14/desc)
 
 ```js
 export default class Tile {
