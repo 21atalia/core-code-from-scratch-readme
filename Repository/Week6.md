@@ -2,7 +2,7 @@
 
 ### Week challenges (Monday) 
 
-2. Square(n) Sum exercise, using Typescript
+[2. Square(n) Sum exercise, using Typescript](https://www.codewars.com/kata/515e271a311df0350d00000f/train/typescript)
 
 ```js
 export function squareSum(numbers: number[]): number {
@@ -12,9 +12,20 @@ export function squareSum(numbers: number[]): number {
 }
 ```
 
-3. Growth Of A Population exercise, using Typescript
+[3. Growth Of A Population exercise, using Typescript](https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/typescript)
+
+```js
+export class G964 {
+    public static nbYear = (p0, percent, aug, p) => {
+      for (var y = 0; p0 < p; y++) p0 = parseInt(p0 * (1 + percent / 100) + aug);
+       return y;
+    }
+}
+```
 
 4. Mumbling exercise, using Typescript
+
+
 
 ```js
 export function accum(s: string): string {
