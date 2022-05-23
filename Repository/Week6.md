@@ -66,7 +66,15 @@ export class G964 {
 
 [3. Valid Braces exercise](https://www.codewars.com/kata/5277c8a221e209d3f6000b56/train/typescript)
 
+```js
+export function validBraces(braces: string): boolean {
+   while(/\(\)|\[\]|\{\}/g.test(braces)){
+        braces = braces.replace(/\(\)|\[\]|\{\}/g,"")
+    }
+    return !braces.length;
+}
 
+```
 
 
 ### Week challenges (Wednesday)
