@@ -208,6 +208,45 @@ export default class Time{
 }
 ```
 
+[3. Rational exercise](https://github.com/corecodeio/devguide-from-scratch-2022-02/tree/main/src/technologies/2022/week06/exercises/e14/desc)
+
+```js
+export class rational{
+    numerator : number;
+    denominator: number;
+
+    constructor(numerator: number, denominator: number){
+        this.numerator = numerator;
+        this.denominator = denominator;
+    }
+
+    printRational(){
+        console.log(`${this.numerator} / ${this.denominator}`);
+    }
+
+    invert(){
+        [this.numerator, this.denominator] = [this.denominator, this.numerator];
+    }
+
+    toFloat(){
+        return this.numerator / this.denominator;
+    }
+
+    gcd(n: number, p: number): number{
+        if (p == 0) return n;
+        return this.gcd(p, n % p);
+    }
+
+    reduce(){
+        const gcd = this.gcd(this.numerator, this.denominator);
+        this.numerator = this.numerator / gcd;
+        this.denominator = this.denominator / gcd;
+    }
+}
+
+```
+
+
 
 
 
