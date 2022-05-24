@@ -43,6 +43,6 @@ private
 
 10. Constructors
 
-is a special function that helps you instantiate an object of a class. Whenever you instantiate an object, a default constructor method is called.
+is a set of instructions specially designed to initialize an instance of an object. Whenever you instantiate an object, a default constructor method is called.
 
 
