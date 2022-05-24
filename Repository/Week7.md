@@ -1,3 +1,3 @@
 ### Week challenges (Monday) 💻
 
-[Readme - OOP]
+[Readme - OOP](resources/OPP glosary.md)
