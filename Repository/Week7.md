@@ -17,3 +17,12 @@ export const towerBuilder = (nFloors: number): string[] => {
     return result
 }
 ```
+
+[2. Meeting exercise](https://www.codewars.com/kata/59df2f8f08c6cec835000012/train/typescript)
+
+```js
+export function meeting(s: string): string {
+  return s.replace(/;/gi,' ').split(' ').map(v=>v.split(':').reverse().join(', ').toUpperCase()).sort()
+   .map(v=>'('+v+')').join('')
+}
+```
