@@ -112,7 +112,7 @@ persons.forEach(logPerson);
 
 ### Week challenges (Thursday)
 
-1. What's Your Poison? exercise
+[1. What's Your Poison? exercise](https://www.codewars.com/kata/58c47a95e4eb57a5b9000094/train/javascript)
 
 ```js
 function find(rats) {
@@ -121,7 +121,7 @@ function find(rats) {
 ```
 
 
-2. Array.diff exercise
+[2. Array.diff exercise](https://www.codewars.com/kata/523f5d21c841566fde000009/train/javascript)
 
 ```js
 function arrayDiff(a, b) {
