@@ -17,8 +17,8 @@ Let's see an example:
 
 ```js
 export class Dog{
-    age: number
-    breed: string
+    age: number;
+    breed: string;
 }
 ```
 
