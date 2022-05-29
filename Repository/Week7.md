@@ -1,6 +1,6 @@
 ### Week challenges (Monday) 💻
 
-[Readme - OOP🧿](main/resources/OOP_glossary.md)
+[Readme - OOP🧿](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/resources/OOP_glossary.md)
 
 ### Week challenges (Tuesday) 💻
 
