@@ -1,6 +1,6 @@
 ### Week challenges (Monday) 💻
 
-[Readme - OOP🧿](resources/OOP_glossary.md)
+[Readme - OOP🧿](main/resources/OOP_glossary.md)
 
 ### Week challenges (Tuesday) 💻
 
