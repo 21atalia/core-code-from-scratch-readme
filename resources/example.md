@@ -8,3 +8,19 @@ export class Dog{
     // Magic here
 }
 ```
+
+## Class properties
+
+Properties (like functions or methods) of a class in TypeScript can be protected, private or public. They are defined with their type. 
+
+Let's see an example:
+
+```js
+export class Dog{
+    age: number
+    breed: string
+}
+```
+
+
+
