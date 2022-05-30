@@ -1,16 +1,10 @@
-Scrum Essentials
 
 
-Introducción a Ágil 💻
+This is one of the requirements for the certification, where you'll boost your dev professional-brand
 
-Con scrum es posible tener una posibilidad de exito mucho mas grande.
-
-Cuando se construye un producto sin importar el que sea, basicamente se definen 3 problemas:
-
-1. ¿Que construir?
-
-Se necesita construir el producto correcto para solucionar un determinado problema. se debe obtener informacion valiosa de los usuarios que no se tenia al principio del proyecto, se puede ir adaptando el producto que se tenia originalmente pensado, para ir aprendiendo de los consumidores o usuarios para asi poder ir construyendo el producto correcto. 
-
-2. ¿Comó lo construyo?
-
-
+1. ✨Complete your 1st Core Challenge
+2. ✨Complete your 2nd Core Challenge
+3. ✨Complete your 3rd Core Challenge. 
+4. ✨Complete your 4th Core Challenge
+5. ✨ 5th Core Challenge
+6. ✨ 6th Core Challenge
