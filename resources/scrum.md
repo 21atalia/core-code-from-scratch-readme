@@ -1,4 +1,4 @@
-<h1>Scrum Essentials</h1>
+<h1 align="center">Scrum Essentials</h1>
 
  Introducción y Bases de Scrum
 
