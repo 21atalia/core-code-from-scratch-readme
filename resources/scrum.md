@@ -33,6 +33,14 @@ Los 3 roles de scrum:
 
 ![roles](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/images/roles.png)
 
+Eventos de Scrum
+
+Todo en Scrum se trata de las diferentes aristas que se tengan del proyecto, que es lo ¿Que hay que hacer?, ¿Cómo hay que hacerlo? Etc. Se debe estar inspeccionando constantemente si las cosas van bien, y sino es el caso entonces se debe hacer las adaptaciones necesarias y corregirlo para que la siguiente iteración esto ya este corregido.
+
+Pilares de Scrum 
+
+
+
 
 
 
