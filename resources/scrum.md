@@ -13,6 +13,10 @@ Cuando se construye un producto sin importar el que sea, básicamente se definen
 
 Se necesita construir el producto correcto para solucionar un determinado problema. se debe obtener información valiosa de los usuarios que no se tenía al principio del proyecto, se puede ir adaptando el producto que se tenía originalmente pensado, para ir aprendiendo de los consumidores o usuarios para así poder ir construyendo el producto correcto. 
 
+Los Orígenes de Scrum
+
+
+
 
 
 
