@@ -22,5 +22,17 @@ export class Dog{
 }
 ```
 
+## Constructor
+
+```js
+constructor(age: number, breed: string)
+    {
+        this.age = age;
+        this.breed = breed;
+    }
+ ```
+
+
+
 
 
