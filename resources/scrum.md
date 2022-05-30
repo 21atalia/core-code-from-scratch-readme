@@ -39,6 +39,8 @@ Todo en Scrum se trata de las diferentes aristas que se tengan del proyecto, que
 
 Pilares de Scrum 
 
+![pilares](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/images/Pilaresdescrum.png)
+
 
 
 
