@@ -31,7 +31,7 @@ Es un pequeño grupo de profesionales, es la célula fundamental de scrum, no de
 
 Los 3 roles de scrum:
 
-![origenes](
+![roles](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/images/roles.png)
 
 
 
