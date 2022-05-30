@@ -39,8 +39,15 @@ constructor(age: number, breed: string)
  ```js
  let Spot = new Dog(2, 'Labrador');
  ```
+ 
+ ## Encapsulation
+ 
+The implementation and state of each object are privately held inside a defined boundary, or class. Other objects do not have access to this class or the authority to make changes but are only able to call a list of public functions, or methods.
 
 
 
-
+ 
+ 
+ 
+ 
 
