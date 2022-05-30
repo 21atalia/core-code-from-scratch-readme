@@ -36,7 +36,9 @@ constructor(age: number, breed: string)
  
  Spot is an instance-object of Dog
  
- let Spot = new Dog(2, 'Labrador')
+ ```js
+ let Spot = new Dog(2, 'Labrador');
+ ```
 
 
 
