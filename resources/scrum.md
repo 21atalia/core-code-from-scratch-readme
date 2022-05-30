@@ -19,6 +19,10 @@ Los Orígenes de Scrum
 
 Valores y Principios Ágiles
 
+4 valores de ágil
+
+![valores](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/images/4%20valores%20de%20agil.PNG)
+
 [12 principios ágiles](https://www.scrumnetwork.com/principios)
 
 
