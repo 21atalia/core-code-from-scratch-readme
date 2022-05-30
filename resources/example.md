@@ -31,6 +31,12 @@ constructor(age: number, breed: string)
         this.breed = breed;
     }
  ```
+ 
+ To create an object we call the class with the new keyword, which triggers the constructor and returns an instance-object just like in regular JavaScript.
+ 
+ Spot is an instance-object of Dog
+ 
+ let Spot = new Dog(2, 'Labrador')
 
 
 
