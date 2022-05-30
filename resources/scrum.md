@@ -25,6 +25,17 @@ Valores y Principios Ágiles
 
 [12 principios ágiles](https://www.scrumnetwork.com/principios)
 
+Equipo de Scrum
+
+Es un pequeño grupo de profesionales, es la célula fundamental de scrum, no debe ser mayor a 10 personas, cada uno tendrá diferentes responsabilidades.
+
+Los 3 roles de scrum:
+
+![origenes](
+
+
+
+
 
 
 
