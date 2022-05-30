@@ -15,6 +15,8 @@ Se necesita construir el producto correcto para solucionar un determinado proble
 
 Los Orígenes de Scrum
 
+![origenes](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/images/origenes de scrum.png
+
 
 
 
