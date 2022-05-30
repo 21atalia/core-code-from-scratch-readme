@@ -4,6 +4,7 @@
 
 ## _Index_
 
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - [Week 1 : Introduction to programming & Javascript](Repository/Week1.md)
 - [Week 2 : Javascript](Repository/Week2.md)
 - [Week 3 : Javascript](Repository/Week3.md)
