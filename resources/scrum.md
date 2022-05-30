@@ -17,6 +17,10 @@ Los Orígenes de Scrum
 
 ![origenes](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/images/origenes%20de%20scrum.png)
 
+Valores y Principios Ágiles
+
+[12 principios ágiles](https://www.scrumnetwork.com/principios)
+
 
 
 
