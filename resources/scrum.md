@@ -46,6 +46,13 @@ Los eventos de los equipos en Scrum son 5 reuniones:
 
 ![eventos](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/images/eventos.png)
 
+Valores de Scrum
+
+![valores](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/images/valores%20de%20scrum.PNG)
+
+
+
+
 
 
 
