@@ -80,6 +80,7 @@ Sprint Review: el propósito de la Revisión del Sprint es inspeccionar el resul
 Sprint Retrospective: esta reunión sirve para que nosotros hablemos de como hicimos las cosas, ¿será que las hicimos bien? ¿O mal? ¿Qué errores cometimos? Que podemos hacer para que el próximo sprint ya no tengamos los problemas que tuvimos. Ser mas eficientes. Esta reunión no debe ser de mas de 3 horas para un sprint de 4 semanas. 
 
 3-5-3
+
 3 roles: 
 	Product Owner
 	Scrum Master 
@@ -89,6 +90,14 @@ Sprint Retrospective: esta reunión sirve para que nosotros hablemos de como hic
 	Sprint
 	Sprint Planning
 	Daily Scrum
+	Sprint Review
+	Sprint Retrospective
+
+3 artefactos:
+	Product Backlog
+	Sprint Backlog
+	Increment 
+
 
 
 
