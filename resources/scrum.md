@@ -41,6 +41,13 @@ Pilares de Scrum
 
 ![pilares](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/images/Pilaresdescrum.png)
 
+Los eventos de los equipos en Scrum son 5 reuniones:
+
+
+![eventos](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/images/eventos.png)
+
+
+
 
 
 
