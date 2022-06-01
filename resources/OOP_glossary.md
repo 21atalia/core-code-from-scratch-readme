@@ -43,6 +43,5 @@ private
 
 10. Constructors
 
-is a set of instructions specially designed to initialize an instance of an object. Whenever you instantiate an object, a default constructor method is called.
-
+is a set of instructions specially designed to initialize an instance of an object. When you create a new instance of the class, the constructor creates a new object with the class shape and initializes it with the values passed to it.
 
