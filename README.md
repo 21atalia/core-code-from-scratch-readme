@@ -14,6 +14,7 @@
 - [Week 5 : Typescript](Repository/Week5.md)
 - [Week 6 : Typescript](Repository/Week6.md)
 - [Week 7 : Typescript](Repository/Week7.md)
+- [Week 8 : Typescript](Repository/Week8.md)
 
 - [ Core Challenges ⚡](resources/corechallenges.md)
 
