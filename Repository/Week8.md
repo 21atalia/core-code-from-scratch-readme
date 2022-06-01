@@ -1,4 +1,4 @@
-## Week 5 : Typescript
+## Week 8 : Typescript
 
 ### Week challenges (Monday) 💻
 
@@ -50,5 +50,28 @@ let total2 = (input: number[]): number => {
     }
     return total;
 }
+```
+
+Create Functions
+
+```js
+function displayAlert(message: string | number) {
+    alert('The message is ' + message);
+}
+
+console.log(displayAlert(42));
+
+function sum(input: number[]): number {
+    let total =  0;
+    for(let count = 0; count < input.length; count++) {
+        if(isNaN(input[count])){
+            continue;
+        }
+        total += Number(input[count]);
+    }
+    return total;
+}
+
+console.log(sum([1, 2, 3]));
 ```
 
