@@ -75,3 +75,9 @@ function sum(input: number[]): number {
 console.log(sum([1, 2, 3]));
 ```
 
+Fun with parameters
+
+
+
+
+
