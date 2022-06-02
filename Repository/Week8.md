@@ -2,17 +2,28 @@
 
 ### _Week challenges (Monday)_ 💻
 
+<br>
+
 _1. [Get Started With TypeScript guided exercise](https://docs.microsoft.com/en-us/learn/modules/typescript-get-started/)_
 
+<br>
+
   >[ Solution📝](https://github.com/21atalia/core-code-from-scratch-readme/tree/main/examples/TypeScriptGuide/Get_Started_With_TypeScript)
-   
-   
-   
+  
+  <br>
+  
+  <br>
+  
 _2. [Declare Variable Types In TypeScript guided exercise](https://docs.microsoft.com/en-us/learn/modules/typescript-declare-variable-types/)_
 
-### Week challenges (Tuesday) 💻
+### _Week challenges (Tuesday)_ 💻
 
-1. [Develop typed functions by using TypeScript guided exercise](https://docs.microsoft.com/en-us/learn/modules/typescript-develop-typed-functions/)
+<br>
+
+_1. [Develop typed functions by using TypeScript guided exercise](https://docs.microsoft.com/en-us/learn/modules/typescript-develop-typed-functions/)_
+
+<br>
+
 ```js
 function addNumbers (x: number, y: number): number {
    return x + y;
