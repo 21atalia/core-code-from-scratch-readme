@@ -95,6 +95,41 @@ console.log(sum([1, 2, 3]));
 
 Fun with parameters
 
+<br>
+
+## _Week challenges (Wednesday)_ 💻
+
+<br>
+
+1. Define generics in TypeScript guided exercise
+
+<br>
+
+_2. [Make the Deadfish Swim](https://www.codewars.com/kata/51e0007c1f9378fa810002a9/train/typescript) exercise_
+
+<br>
+
+```js
+export function parse(data: string): number[] {
+  let res:number[] = [];
+
+  data.split('').reduce((cur, s) => {
+    if (s === 'i') cur++;
+    if (s === 'd') cur--;
+    if (s === 's') cur = Math.pow(cur, 2); //I would've done cur *= cur;
+    if (s === 'o') res.push(cur);
+    
+    return cur;
+  }, 0);
+  
+  return res;
+}
+```
+
+
+
+
+
 
 
 
