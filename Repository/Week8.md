@@ -4,7 +4,7 @@
 
 <br>
 
-_1. [Get Started With TypeScript guided exercise](https://docs.microsoft.com/en-us/learn/modules/typescript-get-started/)_
+_1. [Get Started With TypeScript](https://docs.microsoft.com/en-us/learn/modules/typescript-get-started/) guided exercise_
 
 <br>
 
