@@ -34,4 +34,4 @@ export function meeting(s: string): string {
 ```
 
 
-[⬆ Volver al inicio](#nome-do-projeto)<br>
+[⬆ Volver al inicio](#core-code-from-scratch-readme)<br>
