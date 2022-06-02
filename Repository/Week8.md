@@ -12,9 +12,11 @@ _1. [Get Started With TypeScript guided exercise](https://docs.microsoft.com/en-
   
   <br>
   
-  <br>
-  
 _2. [Declare Variable Types In TypeScript guided exercise](https://docs.microsoft.com/en-us/learn/modules/typescript-declare-variable-types/)_
+
+<br>
+
+<br>
 
 ### _Week challenges (Tuesday)_ 💻
 
