@@ -4,7 +4,7 @@
 
 _1. [Get Started With TypeScript guided exercise](https://docs.microsoft.com/en-us/learn/modules/typescript-get-started/)_
 
-  [ Solution📝](https://github.com/21atalia/core-code-from-scratch-readme/tree/main/examples/TypeScriptGuide/Get_Started_With_TypeScript)
+  >[ Solution📝](https://github.com/21atalia/core-code-from-scratch-readme/tree/main/examples/TypeScriptGuide/Get_Started_With_TypeScript)
    
    
    
