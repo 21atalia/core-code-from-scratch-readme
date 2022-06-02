@@ -1,9 +1,14 @@
-## Week 8 : Typescript
+## _Week 8 : Typescript_
 
-### Week challenges (Monday) 💻
+### _Week challenges (Monday)_ 💻
 
-1. [Get Started With TypeScript guided exercise](https://docs.microsoft.com/en-us/learn/modules/typescript-get-started/)
-2. [Declare Variable Types In TypeScript guided exercise](https://docs.microsoft.com/en-us/learn/modules/typescript-declare-variable-types/)
+_1. [Get Started With TypeScript guided exercise](https://docs.microsoft.com/en-us/learn/modules/typescript-get-started/)_
+
+   Solution📝
+   
+   
+   
+_2. [Declare Variable Types In TypeScript guided exercise](https://docs.microsoft.com/en-us/learn/modules/typescript-declare-variable-types/)_
 
 ### Week challenges (Tuesday) 💻
 
