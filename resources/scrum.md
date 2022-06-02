@@ -1,12 +1,12 @@
 <h1 align="center">Scrum Essentials</h1>
 
- Introducción y Bases de Scrum
+### _Introducción y Bases de Scrum_
 
-Introducción a Ágil 💻
+_Introducción a Ágil_ 💻
 
-Con scrum es posible tener una posibilidad de éxito mucho más grande.
+<p>Con scrum es posible tener una posibilidad de éxito mucho más grande.</p>
 
-Cuando se construye un producto sin importar el que sea, básicamente se definen 3 problemas:
+<p>Cuando se construye un producto sin importar el que sea, básicamente se definen 3 problemas:</p>
 
 ![scrum](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/images/Capturascrum.PNG)
 
