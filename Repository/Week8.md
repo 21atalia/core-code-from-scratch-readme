@@ -4,7 +4,7 @@
 
 _1. [Get Started With TypeScript guided exercise](https://docs.microsoft.com/en-us/learn/modules/typescript-get-started/)_
 
-   Solution📝
+  [ Solution📝](./examples/TypeScriptGuide/)
    
    
    
