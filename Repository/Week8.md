@@ -2,8 +2,8 @@
 
 ### Week challenges (Monday) 💻
 
-1. Get Started With TypeScript guided exercise
-2. Declare Variable Types In TypeScript guided exercise
+1. [Get Started With TypeScript guided exercise](https://docs.microsoft.com/en-us/learn/modules/typescript-get-started/)
+2. [Declare Variable Types In TypeScript guided exercise](https://docs.microsoft.com/en-us/learn/modules/typescript-declare-variable-types/)
 
 ### Week challenges (Tuesday) 💻
 
