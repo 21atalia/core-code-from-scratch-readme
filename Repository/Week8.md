@@ -1,4 +1,4 @@
-## _Week 8 : Typescript_
+<h1 align="center">_Week 8 : Typescript</h1>
 
 ### _Week challenges (Monday)_ 💻
 
