@@ -139,7 +139,7 @@ _1. Generics exercise_
 
 <br>
 
-2. TicTacToe exercise
+_2. TicTacToe exercise_
 
 <br>
 
