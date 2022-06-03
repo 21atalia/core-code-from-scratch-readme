@@ -1,16 +1,25 @@
-### Week challenges (Monday) 💻
+### _Week challenges (Monday)_ 💻
 
 1. [Readme - OOP](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/resources/OOP_glossary.md)
 2. [Example OOP🔎](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/resources/example.md) 
 
+<br>
 
-### Week challenges (Tuesday) 💻
+### _Week challenges (Tuesday)_ 💻
 
-1. Menu exercise
+<br>
 
-2. Movies exercise
+_1. Menu exercise_
 
-### Week challenges (Wednesday) 💻
+<br>
+
+>[Solution 🔧](https://github.com/21atalia/core-code-from-scratch-readme/tree/main/examples/exercises/week7/Menu)
+
+<br>
+
+_2. Movies exercise_
+
+### _Week challenges (Wednesday)_ 💻
 
 [2. Build Tower exercise](https://www.codewars.com/kata/576757b1df89ecf5bd00073b/train/typescript)
 
