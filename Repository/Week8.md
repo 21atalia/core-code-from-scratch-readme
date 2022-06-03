@@ -101,7 +101,7 @@ Fun with parameters
 
 <br>
 
-1. Define generics in TypeScript guided exercise
+_1. Define generics in TypeScript guided exercise_
 
 <br>
 
