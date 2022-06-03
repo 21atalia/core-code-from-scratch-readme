@@ -137,6 +137,16 @@ _1. Generics exercise_
 
  >[ Solution📝](https://github.com/21atalia/core-code-from-scratch-readme/tree/main/examples/exercises/week8/Generics)
 
+<br>
+
+2. TicTacToe exercise
+
+<br>
+
+>[ Solution📝](https://github.com/21atalia/core-code-from-scratch-readme/tree/main/examples/exercises/week8/TicTacToe)
+
+
+
 
 
 
