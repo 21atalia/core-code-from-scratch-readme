@@ -125,6 +125,19 @@ export function parse(data: string): number[] {
   return res;
 }
 ```
+<br>
+
+## _Week challenges (Thursday)_ 💻
+
+<br>
+
+_1. Generics exercise_
+
+<br>
+
+ >[ Solution📝]
+
+
 
 
 
