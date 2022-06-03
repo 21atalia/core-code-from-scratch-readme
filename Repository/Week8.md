@@ -135,7 +135,7 @@ _1. Generics exercise_
 
 <br>
 
- >[ Solution📝]
+ >[ Solution📝](https://github.com/21atalia/core-code-from-scratch-readme/tree/main/examples/exercises/week8/Generics)
 
 
 
