@@ -1,9 +1,13 @@
+<h1 align="center">Week 8 : Typescript</h1>
+
+<br>
+
 ### _Week challenges (Monday)_ 💻
 
 <br>
 
-1. [Readme - OOP](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/resources/OOP_glossary.md)
-2. [Example OOP🔎](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/resources/example.md) 
+_1. [Readme - OOP](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/resources/OOP_glossary.md)_
+_2. [Example OOP🔎](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/resources/example.md)_ 
 
 <br>
 
@@ -21,9 +25,15 @@ _1. Menu exercise_
 
 _2. Movies exercise_
 
+<br>
+
 ### _Week challenges (Wednesday)_ 💻
 
-[2. Build Tower exercise](https://www.codewars.com/kata/576757b1df89ecf5bd00073b/train/typescript)
+<br>
+
+_[2. Build Tower exercise](https://www.codewars.com/kata/576757b1df89ecf5bd00073b/train/typescript)_
+
+<br>
 
 ```js
 export const towerBuilder = (nFloors: number): string[] => {
@@ -35,7 +45,7 @@ export const towerBuilder = (nFloors: number): string[] => {
 }
 ```
 
-[2. Meeting exercise](https://www.codewars.com/kata/59df2f8f08c6cec835000012/train/typescript)
+_[2. Meeting exercise](https://www.codewars.com/kata/59df2f8f08c6cec835000012/train/typescript)_
 
 ```js
 export function meeting(s: string): string {
