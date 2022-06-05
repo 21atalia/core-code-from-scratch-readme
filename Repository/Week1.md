@@ -18,7 +18,7 @@ _**2. Is Java compiled or interpreted, or both?, check the sources and answer th
 
 _**3. Pseudocode currency converter exercise**_
 
-Algoritmo
+_Algoritmo_
 ```js
 inicio
 Escribir «Ingresa una cantidad”
@@ -30,7 +30,7 @@ FinAlgoritmo
 
 ### _Week challenges (Wednesday)_ 
 
-1. Your date of birth in the matrix?
+_1. Your date of birth in the matrix?_
 ```js
 1993 / 2 = 996 R 1
 996 / 2 = 498 R 0
