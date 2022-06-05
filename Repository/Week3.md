@@ -1,9 +1,9 @@
 
-## Week 3 : Javascript
+<h1 align="center">Week 3 : Javascript</h1>
 
-### Week challenges (Monday)
+### _Week challenges (Monday)_
 
-1. Who Likes It? exercise
+_1. Who Likes It? exercise_
 ```js
 function likes(names) {
   if (names.length===0) return 'no one likes this';
@@ -15,7 +15,7 @@ function likes(names) {
 }
 ```
 
-2. Bit Counting exercise
+_2. Bit Counting exercise_
 
 ```js
 var countBits = function(n) {
@@ -29,7 +29,7 @@ var countBits = function(n) {
 };
 ```
 
-3. Your Order, Please exercise
+_3. Your Order, Please exercise_
 
 ```js
 function order(words){
@@ -48,7 +48,7 @@ function order(words){
 ```
 
 
-### Week challenges (Tuesday)
+### _Week challenges (Tuesday)_
 
 1. Simple Pig Latin exercise
 
@@ -69,7 +69,7 @@ function pigIt(str){
 }
 ```
 
-2. Counting Duplicates exercise
+_2. Counting Duplicates exercise_
 
 Write a function that will return the count of distinct case-insensitive alphabetic characters and numeric digits that occur more than once in the input string. The input string can be assumed to contain only alphabets (both uppercase and lowercase) and numeric digits.
 
@@ -97,7 +97,7 @@ function duplicateCount(text){
   }
   ```
   
-  3. Decode The Morse Code
+  _3. Decode The Morse Code_
   
 ```js
 decodeMorse = function(morseCode){
@@ -122,9 +122,9 @@ decodeMorse = function(morseCode){
   ```
   
  
-  ### Week challenges (Wednesday)
+  ### _Week challenges (Wednesday)_
   
-  1. Valid Parentheses exercise
+_1. Valid Parentheses exercise_
 ```js
 function validParentheses(parens){
     let parenArr = [];
@@ -147,7 +147,7 @@ function validParentheses(parens){
 }
 ```
 
-2. Convert String To Camel Case exercise
+_2. Convert String To Camel Case exercise_
 ```js
 function toCamelCase(str){
   let newStr = "";
@@ -168,7 +168,7 @@ function toCamelCase(str){
 ```
 
 
-3. Unique In Order
+_3. Unique In Order_
 
 ```js
 var uniqueInOrder=function(iterable){
@@ -183,9 +183,9 @@ var uniqueInOrder=function(iterable){
 ```
 
 
-### Week challenges (Thursday) 
+### _Week challenges (Thursday)_ 
 
-1. Fold An Array exercise
+_1. Fold An Array exercise_
 
 ```js
 function foldArray(array, runs)
@@ -196,7 +196,7 @@ function foldArray(array, runs)
 }
 ```
 
-2. Encrypt This! exercise
+_2. Encrypt This! exercise_
 ```js
 var encryptThis = function(text) {
  if(text === '') {return '';
