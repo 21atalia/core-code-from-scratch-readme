@@ -1,10 +1,10 @@
-<h1 >Week 1 : Introduction to programming & Javascript</h1>
+<h1 align="center">Week 1 : Introduction to programming & Javascript</h1>
 
-### Week challenges (Tuesday)
+### _Week challenges (Tuesday)_
 
 <br>
 
-**1. Base on this reading and this video, create an explanation about Interpreted And Compiled Programming Languages in your README**
+_**1. Base on this reading and this video, create an explanation about Interpreted And Compiled Programming Languages in your README**_
 
 <p>Los lenguajes compilados son los que se convierten a código maquina y son ejecutados de manera mas rapida por el procesador, un compilador recoge todo el código fuente y lo combina en un archivo ejecutable para una arquitectura especifica de procesador.</p> 
 
@@ -12,11 +12,11 @@
 
 <br>
 
-**2. Is Java compiled or interpreted, or both?, check the sources and answer the question in your README**
+_**2. Is Java compiled or interpreted, or both?, check the sources and answer the question in your README**_
 
 <p>Java primero es compilado a un lenguaje intermedio llamado bytecode, JRE se encarga de interpretar el bytecode al que son compilados los programas de Java. ByteCode luego es interpretado por la JVM convirtiéndolo en un lenguaje interpretado.</p>
 
-**3. Pseudocode currency converter exercise**
+_**3. Pseudocode currency converter exercise**_
 
 Algoritmo
 ```js
@@ -28,7 +28,7 @@ imprimir Total
 FinAlgoritmo
 ```
 
-### Week challenges (Wednesday) 
+### _Week challenges (Wednesday)_ 
 
 1. Your date of birth in the matrix?
 ```js
@@ -47,7 +47,7 @@ FinAlgoritmo
 Decimal: 1993, Binario: 11111001001 
 ```
 
-MIPS exercise
+_MIPS exercise_
 ```js
 .data
         welcome: .asciiz "\n================= Welcome =================\n"
@@ -97,7 +97,7 @@ MIPS exercise
               syscall
 ```
 	      
-Program that display your name:
+_Program that display your name:_
 
 ```js
   .data
@@ -111,7 +111,7 @@ Program that display your name:
 
 
 
-### Week challenges (Thursday) 
+### _Week challenges (Thursday)_ 
 
 ```js
 1. Print special numbers exercise
@@ -121,7 +121,7 @@ Program that display your name:
 };
   ```
   
-2. Bad Code exercise
+_2. Bad Code exercise_
 
 El código estaba usando una asignación en vez de utilizar una expresión de comparación.
 
@@ -135,7 +135,7 @@ if (cond == true) {
 }
 ```
 
-3. Bad Code 2 exercise
+_3. Bad Code 2 exercise_
 
 ```js
 var n = 100;
