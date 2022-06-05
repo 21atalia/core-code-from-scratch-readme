@@ -1,8 +1,8 @@
-## Week 2 : Javascript
+<h1 align="center"> Week 2 : Javascript</h1>
 
-### Week challenges (Tuesday) 
+### _Week challenges (Tuesday)_ 
 
-1. Multiply exercise
+_1. Multiply exercise_
 ```js
 //multiply = function (a, b) {
   return a * b;
@@ -11,7 +11,7 @@
 
 
 
-2. ASCII Total exercise
+_2. ASCII Total exercise_
 
 ```js
 function uniTotal(s) {
@@ -30,7 +30,7 @@ function uniTotal(s) {
 }
 ```
 
-3. Char From ASCII Value exercise
+_3. Char From ASCII Value exercise_
 
 ```js
 function getChar(c) {
@@ -38,7 +38,7 @@ function getChar(c) {
 }
 ```
 
-4. Binary Addition exercise
+_4. Binary Addition exercise_
 
 ```js
 function addBinary(a,b) {
@@ -47,7 +47,7 @@ function addBinary(a,b) {
 }
 ```
 
-5. Student's Final Grade exercise
+_5. Student's Final Grade exercise_
 
 ```js
 function finalGrade (exam, projects) {
@@ -65,9 +65,9 @@ function finalGrade (exam, projects) {
 ```
 
 
-### Week challenges (Wednesday) 
+### _Week challenges (Wednesday)_ 
 
-1. Holiday VIII - Duty Free exercise
+_1. Holiday VIII - Duty Free exercise_
 
 ```js
   function dutyFree(normPrice, discount, hol){
@@ -75,7 +75,7 @@ function finalGrade (exam, projects) {
 }
 ```
 
-2. Twice As Old exercise
+_2. Twice As Old exercise_
 
 ```js
 function twiceAsOld(dadYearsOld, sonYearsOld) {
@@ -84,7 +84,7 @@ function twiceAsOld(dadYearsOld, sonYearsOld) {
 ```
   
 
-3.Valid Spacing exercise
+_3.Valid Spacing exercise_
 
 ```js
 function validSpacing(s) {
@@ -98,7 +98,7 @@ function validSpacing(s) {
  }
  ```
 
-4. Fake Binary exercise
+_4. Fake Binary exercise_
 
 ```js
 function fakeBin(x){
@@ -106,9 +106,9 @@ function fakeBin(x){
 }
 ```
    
-### Week challenges (Thursday)
+### _Week challenges (Thursday)_
 
-1. Remove All Exclamation Marks From The End Of Sentence exercise
+_1. Remove All Exclamation Marks From The End Of Sentence exercise_
 
 ```js
 function remove(s){
@@ -116,7 +116,7 @@ function remove(s){
 }
 ```
 
-2. Vowel Remover exercise
+_2. Vowel Remover exercise_
 
 ```js
 function shortcut (str) {
@@ -131,7 +131,7 @@ function shortcut (str) {
 }
 ```
 
-3. Rock Paper Scissors! exercise
+_3. Rock Paper Scissors! exercise_
 
 ```js
 const rps = (p1, p2) => {
@@ -146,7 +146,7 @@ const rps = (p1, p2) => {
 ```
 
 
-4. Persistent Bugger exercise
+_4. Persistent Bugger exercise_
 
 Write a function, persistence, that takes in a positive parameter num and returns its multiplicative persistence, which is the number of times you must multiply the digits in num until you reach a single digit.
 
