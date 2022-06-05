@@ -1,8 +1,8 @@
-## Week 6 : Typescript
+<h1 align="center">Week 6 : Typescript</hi>
 
-### Week challenges (Monday) 
+### _Week challenges (Monday)_ 
 
-[2. Square(n) Sum exercise](https://www.codewars.com/kata/515e271a311df0350d00000f/train/typescript)
+_[2. Square(n) Sum exercise](https://www.codewars.com/kata/515e271a311df0350d00000f/train/typescript)_
 
 ```js
 export function squareSum(numbers: number[]): number {
@@ -12,7 +12,7 @@ export function squareSum(numbers: number[]): number {
 }
 ```
 
-[3. Growth Of A Population exercise](https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/typescript)
+_[3. Growth Of A Population exercise](https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/typescript)_
 
 ```js
 export class G964 {
@@ -23,7 +23,7 @@ export class G964 {
 }
 ```
 
-[4. Mumbling exercise](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/typescript)
+_[4. Mumbling exercise](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/typescript)_
 
 ```js
 export function accum(s: string): string {
@@ -31,7 +31,7 @@ export function accum(s: string): string {
 }
 ```
 
-[5. A Wolf In Sheep's Clothing exercise](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15/train/typescript)
+_[5. A Wolf In Sheep's Clothing exercise](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15/train/typescript)_
 
 ```js
 export function warnTheSheep(queue: string[]): string {
@@ -41,9 +41,9 @@ export function warnTheSheep(queue: string[]): string {
 }
 ```
 
-### Week challenges (Tuesday) 
+### _Week challenges (Tuesday)_ 
 
-[1. A Rule Of Divisibility By 13 exercise](https://www.codewars.com/kata/564057bc348c7200bd0000ff/train/typescript)
+_[1. A Rule Of Divisibility By 13 exercise](https://www.codewars.com/kata/564057bc348c7200bd0000ff/train/typescript)_
 
 ```js
 export function thirt(n: number): number {
@@ -53,7 +53,7 @@ export function thirt(n: number): number {
 }
 ```
 
-[2. Playing With Digits exercise](https://www.codewars.com/kata/5552101f47fc5178b1000050/train/typescript)
+_[2. Playing With Digits exercise](https://www.codewars.com/kata/5552101f47fc5178b1000050/train/typescript)_
 
 ```js
 export class G964 {
@@ -64,7 +64,7 @@ export class G964 {
 }
 ```
 
-[3. Valid Braces exercise](https://www.codewars.com/kata/5277c8a221e209d3f6000b56/train/typescript)
+_[3. Valid Braces exercise](https://www.codewars.com/kata/5277c8a221e209d3f6000b56/train/typescript)_
 
 ```js
 export function validBraces(braces: string): boolean {
@@ -94,7 +94,7 @@ export function duplicateEncode(word: string) {
 }
 ```
 
-[2. Find The Odd Int exercise](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/typescript)
+_[2. Find The Odd Int exercise](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/typescript)_
 
 ```js
 export const findOdd = (xs: number[]): number => {
@@ -114,7 +114,7 @@ export const findOdd = (xs: number[]): number => {
 };
 ```
 
-[3. Which Are In? exercise](https://www.codewars.com/kata/550554fd08b86f84fe000a58/train/typescript)
+_[3. Which Are In? exercise](https://www.codewars.com/kata/550554fd08b86f84fe000a58/train/typescript)_
 
 ```js
 export class G964 {
@@ -124,7 +124,7 @@ export class G964 {
 }
 ```
 
-[4. Sums Of Parts exercise](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/train/typescript)
+_[4. Sums Of Parts exercise](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/train/typescript)_
 
 ```js
 export function partsSums(ls: number[]): number[] {
@@ -136,7 +136,7 @@ export function partsSums(ls: number[]): number[] {
 }
 ```
 
-[5. Consecutive Strings exercise](https://www.codewars.com/kata/56a5d994ac971f1ac500003e/train/typescript)
+_[5. Consecutive Strings exercise](https://www.codewars.com/kata/56a5d994ac971f1ac500003e/train/typescript)_
 
 ```js
 export function longestConsec(strarr: string[], k: number): string {
@@ -151,9 +151,9 @@ export function longestConsec(strarr: string[], k: number): string {
 }
 ```
 
-### Week challenges (Thursday)
+### _Week challenges (Thursday)_
 
-[1. Tile exercise](https://github.com/corecodeio/devguide-from-scratch-2022-02/tree/main/src/technologies/2022/week06/exercises/e14/desc)
+_[1. Tile exercise](https://github.com/corecodeio/devguide-from-scratch-2022-02/tree/main/src/technologies/2022/week06/exercises/e14/desc)_
 
 ```js
 export default class Tile {
@@ -176,7 +176,7 @@ export default class Tile {
 }
 ```
 
-[2. Time exercise](https://github.com/corecodeio/devguide-from-scratch-2022-02/tree/main/src/technologies/2022/week06/exercises/e15/desc)
+_[2. Time exercise](https://github.com/corecodeio/devguide-from-scratch-2022-02/tree/main/src/technologies/2022/week06/exercises/e15/desc)_
 
 ```js
 export default class Time{
@@ -208,7 +208,7 @@ export default class Time{
 }
 ```
 
-[3. Rational exercise](https://github.com/corecodeio/devguide-from-scratch-2022-02/tree/main/src/technologies/2022/week06/exercises/e14/desc)
+_[3. Rational exercise](https://github.com/corecodeio/devguide-from-scratch-2022-02/tree/main/src/technologies/2022/week06/exercises/e14/desc)_
 
 ```js
 export class rational{
