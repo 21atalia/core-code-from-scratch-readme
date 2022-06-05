@@ -50,7 +50,7 @@ function order(words){
 
 ### _Week challenges (Tuesday)_
 
-1. Simple Pig Latin exercise
+_1. Simple Pig Latin exercise_
 
 ```js
 function pigIt(str){
