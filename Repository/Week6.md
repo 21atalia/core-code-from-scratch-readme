@@ -77,7 +77,7 @@ export function validBraces(braces: string): boolean {
 ```
 
 
-### Week challenges (Wednesday)
+### _Week challenges (Wednesday)_
 
 [1. Duplicate Encoder exercise](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/typescript)
 
