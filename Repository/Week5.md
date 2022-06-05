@@ -2,7 +2,7 @@
 
 ### _Week challenges (Monday)_ 
 
-[1. Find The Missing Letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/javascript) exercise
+_[1. Find The Missing Letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/javascript) exercise_
 
 ```js
 function findMissingLetter(array)
@@ -11,7 +11,7 @@ function findMissingLetter(array)
 }
 ```
 
-[2. Reverse Or Rotate? exercise](https://www.codewars.com/kata/56b5afb4ed1f6d5fb0000991/train/javascript)
+_[2. Reverse Or Rotate?](https://www.codewars.com/kata/56b5afb4ed1f6d5fb0000991/train/javascript)exercise_
 
 ```js
 function revrot(str, sz) {
@@ -29,9 +29,9 @@ function revrot(str, sz) {
 }
 ```
 
-### Week challenges (Tuesday) 
+### _Week challenges (Tuesday)_ 
 
-[1. TypeScript Object Type exercise](https://typescript-exercises.github.io/#exercise=1)
+_[1. TypeScript Object Type exercise](https://typescript-exercises.github.io/#exercise=1)_
 
 ```js
 export interface User {
@@ -62,7 +62,7 @@ users.forEach(logPerson);
 ```
 
 
-[2. TypeScript Unions exercise](https://typescript-exercises.github.io/#exercise=2)
+_[2. TypeScript Unions exercise](https://typescript-exercises.github.io/#exercise=2)_
 
 ```js
 interface User {
@@ -110,9 +110,9 @@ persons.forEach(logPerson);
 ```
 
 
-### Week challenges (Thursday)
+### _Week challenges (Thursday)_
 
-[1. What's Your Poison? exercise](https://www.codewars.com/kata/58c47a95e4eb57a5b9000094/train/javascript)
+_[1. What's Your Poison? exercise](https://www.codewars.com/kata/58c47a95e4eb57a5b9000094/train/javascript)_
 
 ```js
 function find(rats) {
@@ -121,7 +121,7 @@ function find(rats) {
 ```
 
 
-[2. Array.diff exercise](https://www.codewars.com/kata/523f5d21c841566fde000009/train/javascript)
+_[2. Array.diff exercise](https://www.codewars.com/kata/523f5d21c841566fde000009/train/javascript)_
 
 ```js
 function arrayDiff(a, b) {
