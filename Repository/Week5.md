@@ -1,8 +1,8 @@
-## Week 5 : Typescript
+<h1 align="center">Week 5 : Typescript</h1>
 
-### Week challenges (Monday) 
+### _Week challenges (Monday)_ 
 
-[1. Find The Missing Letter exercise](https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/javascript)
+[1. Find The Missing Letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/javascript) exercise
 
 ```js
 function findMissingLetter(array)
