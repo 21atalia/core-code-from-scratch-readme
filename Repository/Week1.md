@@ -1,6 +1,6 @@
 <h1 align="center">Week 1 : Introduction to programming & Javascript</h1>
 
-### _Week challenges (Tuesday)_
+### _Week challenges (Tuesday)_ 💻
 
 <br>
 
@@ -19,6 +19,9 @@ _**2. Is Java compiled or interpreted, or both?, check the sources and answer th
 _**3. Pseudocode currency converter exercise**_
 
 _Algoritmo_
+
+<br>
+
 ```js
 inicio
 Escribir «Ingresa una cantidad”
@@ -28,9 +31,14 @@ imprimir Total
 FinAlgoritmo
 ```
 
-### _Week challenges (Wednesday)_ 
+<br>
+
+### _Week challenges (Wednesday)_ 💻
 
 _1. Your date of birth in the matrix?_
+
+<br>
+
 ```js
 1993 / 2 = 996 R 1
 996 / 2 = 498 R 0
@@ -46,6 +54,7 @@ _1. Your date of birth in the matrix?_
 
 Decimal: 1993, Binario: 11111001001 
 ```
+<br>
 
 _MIPS exercise_
 ```js
@@ -109,9 +118,11 @@ _Program that display your name:_
               syscall
 ```
 
+<br>
 
+### _Week challenges (Thursday)_ 💻
 
-### _Week challenges (Thursday)_ 
+<br>
 
 ```js
 1. Print special numbers exercise
@@ -120,6 +131,8 @@ _Program that display your name:_
     console.log(i)
 };
   ```
+  
+  <br>
   
 _2. Bad Code exercise_
 
@@ -134,6 +147,8 @@ if (cond == true) {
   console.log('The cond variable is false');
 }
 ```
+
+<br>
 
 _3. Bad Code 2 exercise_
 
