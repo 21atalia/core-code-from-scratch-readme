@@ -16,6 +16,8 @@ _2. [Declare Variable Types In TypeScript guided exercise](https://docs.microsof
 
 <br>
 
+ > Solution📝
+
 <br>
 
 ### _Week challenges (Tuesday)_ 💻
