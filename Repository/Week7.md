@@ -6,11 +6,19 @@
 
 <br>
 
-_1. [Readme - OOP](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/resources/OOP_glossary.md)_
+_1. Input/Output playground_
 
 <br>
 
-_2. [Example OOP🔎](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/resources/example.md)_ 
+> [Solution 📝]((https://github.com/21atalia/core-code-from-scratch-readme/tree/main/examples/exercises/week7/Input)
+
+<br>
+
+_2. [Readme - OOP](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/resources/OOP_glossary.md)_
+
+<br>
+
+_2.1 [Example OOP🔎](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/resources/example.md)_ 
 
 <br>
 
