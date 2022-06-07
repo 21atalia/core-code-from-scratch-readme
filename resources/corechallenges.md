@@ -31,6 +31,10 @@ This is one of the requirements for the certification, where you'll boost your d
 
 <br>
 
+**_completed_** ✔
+
+<br>
+
 ## _6. ✨ 5th Core Challenge_
 
 <br>
