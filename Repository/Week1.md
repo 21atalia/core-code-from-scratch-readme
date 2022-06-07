@@ -56,7 +56,7 @@ Decimal: 1993, Binario: 11111001001
 ```
 <br>
 
-_MIPS exercise_
+_2. MIPS exercise_
 ```js
 .data
         welcome: .asciiz "\n================= Welcome =================\n"
@@ -122,6 +122,8 @@ _Program that display your name:_
 
 ### _Week challenges (Thursday)_ 💻
 
+1. _Print special numbers exercise_
+
 <br>
 
 ```js
@@ -163,6 +165,12 @@ if (n == 100) {
   console.log('Just a regular number');
 }
 ```
+
+<br>
+
+4. _Follow Git Course_
+
+**_Completed_** ✔
 
 <br>
 
