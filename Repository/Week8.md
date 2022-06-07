@@ -28,7 +28,7 @@ _1. [Develop typed functions by using TypeScript](https://docs.microsoft.com/en-
 
 <br>
 
-[ > Solution📝](https://github.com/21atalia/core-code-from-scratch-readme/tree/main/examples/TypeScriptGuide/Develop_typed_functions)
+>[Solution📝](https://github.com/21atalia/core-code-from-scratch-readme/tree/main/examples/TypeScriptGuide/Develop_typed_functions)
 
 <br>
 
