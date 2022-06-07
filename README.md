@@ -17,6 +17,7 @@
 - [Week 6 : Typescript](Repository/Week6.md)
 - [Week 7 : Typescript](Repository/Week7.md)
 - [Week 8 : Typescript](Repository/Week8.md)
+- [Week 9 : End Of Month & Pause Day](Repository/Week9.md)
 
 <br>
 
