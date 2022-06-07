@@ -30,6 +30,10 @@ _2. Movies exercise_
 
 <br>
 
+>[Solution 🔧]
+
+<br>
+
 ### _Week challenges (Wednesday)_ 💻
 
 <br>
@@ -58,4 +62,4 @@ export function meeting(s: string): string {
 ```
 
 
-[⬆ Volver al inicio](#core-code-from-scratch-readme)<br>
+[⬆ Back to homepage](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/README.md)<br>
