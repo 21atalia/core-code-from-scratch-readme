@@ -12,7 +12,7 @@ _1. [Get Started With TypeScript](https://docs.microsoft.com/en-us/learn/modules
   
   <br>
   
-_2. [Declare Variable Types In TypeScript guided exercise](https://docs.microsoft.com/en-us/learn/modules/typescript-declare-variable-types/)_
+_2. [Declare Variable Types In TypeScript](https://docs.microsoft.com/en-us/learn/modules/typescript-declare-variable-types/) guided exercise_
 
 <br>
 
@@ -36,7 +36,7 @@ _1. [Develop typed functions by using TypeScript](https://docs.microsoft.com/en-
 
 <br>
 
-_1. Define generics in TypeScript guided exercise_
+_1.[ Define generics in TypeScript](https://docs.microsoft.com/en-us/learn/modules/typescript-generics/) guided exercise_
 
 <br>
 
