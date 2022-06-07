@@ -40,6 +40,10 @@ _1. Define generics in TypeScript guided exercise_
 
 <br>
 
+> [Solution 📝](https://github.com/21atalia/core-code-from-scratch-readme/tree/main/examples/TypeScriptGuide/Define_generics)
+
+<br>
+
 _2. [Make the Deadfish Swim](https://www.codewars.com/kata/51e0007c1f9378fa810002a9/train/typescript) exercise_
 
 <br>
