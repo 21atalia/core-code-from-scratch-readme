@@ -10,7 +10,7 @@ _1. Input/Output playground_
 
 <br>
 
-> [Solution 📝]((https://github.com/21atalia/core-code-from-scratch-readme/tree/main/examples/exercises/week7/Input)
+> [Solution 📝](https://github.com/21atalia/core-code-from-scratch-readme/tree/main/examples/exercises/week7/Input)
 
 <br>
 
