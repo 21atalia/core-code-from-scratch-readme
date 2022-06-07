@@ -30,7 +30,7 @@ _2. Movies exercise_
 
 <br>
 
->[Solution 🔧]
+>[Solution 🔧](https://github.com/21atalia/core-code-from-scratch-readme/tree/main/examples/exercises/week7/Movies)
 
 <br>
 
