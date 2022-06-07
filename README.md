@@ -5,23 +5,23 @@
 ## _Index_
 
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- [Week 1 : Introduction to programming & Javascript](Repository/Week1.md)
-- [Week 2 : Javascript](Repository/Week2.md)
-- [Week 3 : Javascript](Repository/Week3.md)
-- [Week 4 : End Of Month & Pause Day](Repository/Week4.md)
+- _[Week 1 : Introduction to programming & Javascript](Repository/Week1.md)_
+- _[Week 2 : Javascript](Repository/Week2.md)_
+- _[Week 3 : Javascript](Repository/Week3.md)_
+- _[Week 4 : End Of Month & Pause Day](Repository/Week4.md)_
 
 <br>
 
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-- [Week 5 : Typescript](Repository/Week5.md)
-- [Week 6 : Typescript](Repository/Week6.md)
-- [Week 7 : Typescript](Repository/Week7.md)
-- [Week 8 : Typescript](Repository/Week8.md)
-- [Week 9 : End Of Month & Pause Day](Repository/Week9.md)
+- _[Week 5 : Typescript](Repository/Week5.md)_
+- _[Week 6 : Typescript](Repository/Week6.md)_
+- _[Week 7 : Typescript](Repository/Week7.md)_
+- _[Week 8 : Typescript](Repository/Week8.md)_
+- _[Week 9 : End Of Month & Pause Day](Repository/Week9.md)_
 
 <br>
 
-- [ Core Challenges ⚡](resources/corechallenges.md)
+- _[ Core Challenges ⚡](resources/corechallenges.md)_
 
 
 
