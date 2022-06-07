@@ -1,8 +1,14 @@
 <h1 align="center">Week 5 : Typescript</h1>
 
+<br>
+
 ### _Week challenges (Monday)_ 
 
+<br>
+
 _[1. Find The Missing Letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/javascript) exercise_
+
+<br>
 
 ```js
 function findMissingLetter(array)
@@ -11,7 +17,11 @@ function findMissingLetter(array)
 }
 ```
 
+<br>
+
 _[2. Reverse Or Rotate?](https://www.codewars.com/kata/56b5afb4ed1f6d5fb0000991/train/javascript)exercise_
+
+<br>
 
 ```js
 function revrot(str, sz) {
@@ -29,9 +39,15 @@ function revrot(str, sz) {
 }
 ```
 
+<br>
+
 ### _Week challenges (Tuesday)_ 
 
+<br>
+
 _[1. TypeScript Object Type exercise](https://typescript-exercises.github.io/#exercise=1)_
+
+<br>
 
 ```js
 export interface User {
@@ -61,8 +77,12 @@ console.log('Users:');
 users.forEach(logPerson);
 ```
 
+<br>
+
 
 _[2. TypeScript Unions exercise](https://typescript-exercises.github.io/#exercise=2)_
+
+<br>
 
 ```js
 interface User {
@@ -109,10 +129,16 @@ export function logPerson(user: Person) {
 persons.forEach(logPerson);
 ```
 
+<br>
+
 
 ### _Week challenges (Thursday)_
 
+<br>
+
 _[1. What's Your Poison? exercise](https://www.codewars.com/kata/58c47a95e4eb57a5b9000094/train/javascript)_
+
+<br>
 
 ```js
 function find(rats) {
@@ -120,11 +146,18 @@ function find(rats) {
 }
 ```
 
+<br>
 
 _[2. Array.diff exercise](https://www.codewars.com/kata/523f5d21c841566fde000009/train/javascript)_
+
+<br>
 
 ```js
 function arrayDiff(a, b) {
   return a.filter(function(x){return b.indexOf(x) == -1});
 }
 ```
+
+<br>
+
+[⬆ Back to homepage](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/README.md)<br>
