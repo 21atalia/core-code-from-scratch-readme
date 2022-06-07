@@ -1,6 +1,6 @@
 <h2>OOP Glossary</h2>
 
-##**_1. Abstraction_**
+## **_1. Abstraction_**
 
 An abstraction is a way of hiding the implementation details and showing only the functionality to the users. In other words, it ignores the irrelevant details and shows only the required one.
 
