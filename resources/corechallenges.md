@@ -13,6 +13,7 @@ This is one of the requirements for the certification, where you'll boost your d
 <br>
 
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)<br>
+[LinkedIn](https://www.linkedin.com/in/ataliamoreno/)<br>
 **_completed_** ✔
 
 <br>
