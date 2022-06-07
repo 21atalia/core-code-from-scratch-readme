@@ -211,3 +211,6 @@ var encryptThis = function(text) {
     }
 }
 ```
+<br>
+
+[⬆ Back to homepage](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/README.md)<br>
