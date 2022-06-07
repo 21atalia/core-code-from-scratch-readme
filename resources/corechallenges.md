@@ -39,6 +39,10 @@ This is one of the requirements for the certification, where you'll boost your d
 
 <br>
 
+**_completed_** ✔
+
+<br>
+
 ## _7. ✨ 6th Core Challenge_
 
 <br>
