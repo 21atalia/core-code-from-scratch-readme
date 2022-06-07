@@ -35,6 +35,9 @@ function validate(password) {
   return /^(?=.*[A-Z])(?=.*[0-9])(?=.*[a-z])[a-zA-Z0-9]{6,}$/.test(password);
 }
 ```
+<br>
+
+[⬆ Back to homepage](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/README.md)<br>
 
 
 
