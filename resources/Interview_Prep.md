@@ -6,44 +6,44 @@
 
 <p>I graduated with a degree in Administrative Informatics three years ago. I chose this field of study because I have always been interested in computer science and web development. I have learned several programming languages such as: C#, Visual Basic, Javascript, Typescript. and I have developed small personal projects.</p><br>
 
- _b. What are you doing right now?_
-     _1. If you’re working on a project, if you’re learning something new, if you’re in college_
+ _b. What are you doing right now?_<br>
+     _1. If you’re working on a project, if you’re learning something new, if you’re in college_<br>
 
 _I am currently attending a Software Dev bootcamp from scratch, updating my knowledge and developing new skills._
 
 <br>
 
- _c. Aspirations_
+ _c. Aspirations_<br>
    _1. Try to align your aspirations with the mission of the company if possible_<br>
    
 _I have always enjoyed solving software problems under the guidance of the team and a leader. Your position is attractive as it would give me the opportunity to create technologies that innovate logistics, exploring beyond the imaginable to deliver extraordinary experiences._<br>
 
-## _2. How would you describe yourself in three words? (3 words)_
+## _2. How would you describe yourself in three words? (3 words)_<br>
    _1. Select words that describe your superpowers and also, words that align with the company’s values_<br>
    
  _I am proactive, self-taught and responsible._
  
  <br>
  
-## _3. How do you see yourself in 5 years? (1-2 sentences)_
+## _3. How do you see yourself in 5 years? (1-2 sentences)_<br>
     1. Share your career path and include something that could potentially benefit the company
     2. Example - “To become a Senior Developer and a Mentor to the team I’ll be working with”
     
 _I am really excited about the Junior Back-end Developer position at your company because in five years, I am sure that I will have a much deeper and broader knowledge about this area and I know that this is something that I could only achieve through my experience with you. In the coming years, I would like to gradually take on more responsibility and, why not, even lead some projects._<br>
 
-## _4. Why do you want to work at this company? (1-2 sentences)_
+## _4. Why do you want to work at this company? (1-2 sentences)_<br>
    _1. Do research on culture, teamwork, references, projects, schedules sometimes, benefits,_<br>
    
 _I would like to work at this company because it is known for being the leading shipping platform in the market. I see it as a way to advance my career in an innovative and challenging company. And I feel that my skills could fit very well in this job because I will put into practice all my acquired knowledge._<br>
 
-_5. What do you know about this company? (1-2 sentences)
-    1. Important to have done research on the company’s focus, read their website
-    2. Check LinkedIn company employees career growth, add them as friends!
+_5. What do you know about this company? (1-2 sentences)<br>
+    1. Important to have done research on the company’s focus, read their website<br>
+    2. Check LinkedIn company employees career growth, add them as friends!<br>
     3. What you validate and celebrate of the company_<br>
     
 _They are a web platform that connects several /e-Commerce companies with more than 100 couriers in Latin America._<br>
 
-_6. Why are you interested in this position? (1-2 sentences)
+_6. Why are you interested in this position? (1-2 sentences)<br>
     1. Mention how you can you add value to a team in X position<br>
     
         1. Tech Skills
