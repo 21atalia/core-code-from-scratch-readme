@@ -44,7 +44,8 @@ _5. What do you know about this company? (1-2 sentences)
 _They are a web platform that connects several /e-Commerce companies with more than 100 couriers in Latin America._<br>
 
 _6. Why are you interested in this position? (1-2 sentences)
-    1. Mention how you can you add value to a team in X position
+    1. Mention how you can you add value to a team in X position<br>
+    
         1. Tech Skills
         - Ability to abstract logic
         - Programming languages: JavaScript, Node, Python.
