@@ -55,7 +55,21 @@ _6. Why are you interested in this position? (1-2 sentences)
         - continuous learning
         - communications
         - Ability to be tidy to work
-        - teamwork_<br>
+        - teamwork
+        
+ 
+ <br>
+ 
+_7. Why are you the ideal candidate for this position? (1-2 sentences)
+    1. Experience and how it adds value
+    2. Make emphasis on skill, maybe soft, that is not so usual but it adds a lot
+    3. Related to the product, user, company-oriented
+    4. Successful projects in a technology that interest the company
+    5. Good learner - fast learner - self-taught - proactive learner_
+
+<br>
+
+_8. What is your biggest strength? (1-2 sentences)_<br>
         
         
 
