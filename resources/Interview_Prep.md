@@ -60,16 +60,50 @@ _6. Why are you interested in this position? (1-2 sentences)
  
  <br>
  
-_7. Why are you the ideal candidate for this position? (1-2 sentences)
-    1. Experience and how it adds value
-    2. Make emphasis on skill, maybe soft, that is not so usual but it adds a lot
-    3. Related to the product, user, company-oriented
-    4. Successful projects in a technology that interest the company
-    5. Good learner - fast learner - self-taught - proactive learner_
+_7. Why are you the ideal candidate for this position? (1-2 sentences)<br>
+    1. Experience and how it adds value<br>
+    2. Make emphasis on skill, maybe soft, that is not so usual but it adds a lot<br>
+    3. Related to the product, user, company-oriented<br>
+    4. Successful projects in a technology that interest the company<br>
+    5. Good learner - fast learner - self-taught - proactive learner_<br>
+
+
+_8. What is your biggest strength? (1-2 sentences)_<br>
+
+- I am positive and persevering
+- I am honest
 
 <br>
 
-_8. What is your biggest strength? (1-2 sentences)_<br>
+_9. What is your biggest flaw - weakness? (1-2 sentences)<br>
+    1. Opportunity of growth<br>
+    2. Mention how you’re dealing with it or overcoming it, actions are taken, improvement signs_<br>
+    
+<p>I get very stressed when a deadline is approaching and I don't feel like I will meet it. I tend to stay late at work and even work through lunch. I know it's not healthy, so I've taken steps to try to monitor and control it. I create a daily list of tasks that need to be done so that work doesn't pile up on me. I also ask for help from my team members to keep projects on track. When I feel the effects of stress, I try to take a quick walk outside and get some fresh air. It helps me refocus and get the job done.</p><br>
+
+_10. How much salary do you expect?<br>
+    1. Have the $ and Q numbers just in case<br>
+    2. Give a range so you can stay open for negotiations (50$-100$)<br>
+        - The first number is the minimum you would accept<br>
+        - Second number is aspirational, more than you expect<br>
+        - Based on what you need, or your experience, market and company research on open offerings online, consider that you can start low and then grow at             some companies.<br>
+        
+ _I would like to earn_ 
+
+  $900 - 1200 USD/month
+  
+  <br>
+  
+  _11. Do you have any questions for me?<br>
+    1. Suggestions<br>
+        1. How does growth inside the company?<br>
+        2. What do you expect of the ideal candidate for this position?<br>
+        3. How have you experienced the culture at this company as an employee?<br>
+        4. Do employees have resources available for growth from the company?<br>
+        5. How will you evaluate my performance?_<br>
+
+
+    
         
         
 
