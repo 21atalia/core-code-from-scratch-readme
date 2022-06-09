@@ -44,7 +44,7 @@ This is one of the requirements for the certification, where you'll boost your d
 
 <br>
 
-## _6. ✨ 6th Core Challenge_
+## _6. ✨ 6th Core Challenge [Interview Prep Core Challenge](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/resources/Interview_Prep.md)_
 
 <br>
 
