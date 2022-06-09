@@ -18,6 +18,19 @@ _I am currently attending a Software Dev bootcamp from scratch, updating my know
    
 _I have always enjoyed solving software problems under the guidance of the team and a leader. Your position is attractive as it would give me the opportunity to create technologies that innovate logistics, exploring beyond the imaginable to deliver extraordinary experiences._<br>
 
-##_2. How would you describe yourself in three words? (3 words)_
-    1. Select words that describe your superpowers and also, words that align with the company’s values
+## _2. How would you describe yourself in three words? (3 words)_
+   _1. Select words that describe your superpowers and also, words that align with the company’s values_<br>
+   
+ _I am proactive, self-taught and responsible._
+ 
+ <br>
+ 
+## _3. How do you see yourself in 5 years? (1-2 sentences)_
+    1. Share your career path and include something that could potentially benefit the company
+    2. Example - “To become a Senior Developer and a Mentor to the team I’ll be working with”
+    
+_I am really excited about the Junior Back-end Developer position at your company because in five years, I am sure that I will have a much deeper and broader knowledge about this area and I know that this is something that I could only achieve through my experience with you. In the coming years, I would like to gradually take on more responsibility and, why not, even lead some projects._<br>
+
+## _4. Why do you want to work at this company? (1-2 sentences)_
+   _1. Do research on culture, teamwork, references, projects, schedules sometimes, benefits,_
 
