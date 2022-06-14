@@ -22,7 +22,7 @@
 <br>
 
 ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-- _[Week 10 : React/Node]()_
+- _[Week 10 : React/Node](Repository/Week10.md)_
 
 
 - _[ Core Challenges ⚡](resources/corechallenges.md)_
