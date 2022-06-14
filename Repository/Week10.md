@@ -12,4 +12,6 @@ _1. [React kata](https://www.codewars.com/kata/5a95947f4a6b342636000173)_
 
 <br>
 
+_1. Node.JS Core Understanding Learning Exercise_ 🧠
+
 [⬆ Back to homepage](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/README.md)<br>
