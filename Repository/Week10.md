@@ -1,5 +1,5 @@
-Week challenges (Tuesday) 💻
+### _Week challenges (Tuesday)_ 💻
 
 <br>
 
-1. React kata
+_1. React kata_
