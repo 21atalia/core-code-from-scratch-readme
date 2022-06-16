@@ -37,6 +37,34 @@ V8 is the JavaScript engine i.e. it parses and executes JavaScript code. The DOM
 
 The cool thing is that the JavaScript engine is independent of the browser in which it's hosted. This key feature enabled the rise of Node.js. V8 was chosen to be the engine that powered Node.js back in 2009, and as the popularity of Node.js exploded, V8 became the engine that now powers an incredible amount of server-side code written in JavaScript.</p><br>
 
+_4. Is Node.JS really necessary in the Development ecosystem?_<br>
+
+_5. What is the difference between Node.JS and any other browser?_<br>
+
+<p>In the browser, most of the time what you're doing is interacting with the DOM, or other web platform APIs like Cookies. Those don't exist in Node, of course. You don't have thedocument,windowand all the other objects that the browser provides.
+
+And in the browser, we don't have all the nice APIs that Node.js provides through its modules, such as file system access functionality.
+
+Another big difference is that in Node.js you control the environment. Unless you are creating an open source application that anyone can deploy anywhere, you know which version of Node you will run the application in. Compared to the browser environment, where you don't have the luxury of choosing which browser your visitors will use, this is very convenient.
+
+This means that you can write all of the ES6-7-8-9JavaScript that your version of Node supports.
+
+Since JavaScript moves so fast, but browsers can be a bit slow and users a bit slow to upgrade, sometimes on the web, you can't use older versions of JavaScript / ECMAScript.
+
+You can use Babel to transform your code to be ES5 compliant before sending it to the browser, but in Node, you won't need it.
+
+Another difference is that Node uses the CommonJS module system, while in the browser we are starting to see the standard ES Modules being implemented.
+
+In practice, this means that, for the time being, usingarequire()in Node and importing the browser</p><br>
+
+_6. What is NVM and Why is it useful for Node.JS developers?_<br>
+
+<p>NVM (Node Version Manager) is an application that allows us to have and manage several versions of NodeJS in the same system.
+
+It is extremely useful in development and testing environments.</p><br>
+
+
+
 
 
 
