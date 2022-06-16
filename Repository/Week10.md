@@ -76,6 +76,24 @@ _2. Node.JS Module System Core Understanding Learning Exercise_ 🧠 <br>
 
 **_1. What is a Javascript Module?_**<br>
 
+<p>A module is a function or group of similar functions. They are grouped together within a file and contain the code to execute a specific task when called into a larger application.</p><br>
+
+**_2. Why are Javascript Modules necessary?_**<br>
+
+<p>As our application grows, we want to divide it into multiple files, called "modules". A module can contain a class or a library of functions for a specific purpose.
+
+For a long time, JavaScript existed without a language-level module syntax. That wasn't a problem, because initially scripts were small and simple, so it wasn't necessary.
+
+But over time scripts became increasingly complex, so the community invented a variety of ways to organize the code into modules, special libraries for loading modules on demand.</p><br>
+
+**_3. What module standards are available in Node.JS?_**<br>
+
+
+
+
+
+
+
 
 
 
