@@ -39,6 +39,15 @@ The cool thing is that the JavaScript engine is independent of the browser in wh
 
 _4. Is Node.JS really necessary in the Development ecosystem?_<br>
 
+<p>Of course it does, using Node.js for backend, you automatically get all the pros of full stack JavaScript development, such as:
+
+better efficiency and overall developer productivity
+code sharing and reuse
+speed and performance
+easy knowledge sharing within a team
+a huge number of free tools
+Consequently, your team is a lot more flexible, the development is less time-consuming and as a result, you get fast and reliable software. Developers trained in frontend JavaScript can start programming the server side with minimum effort. With the same language on both sides, you can reuse code on the frontend and the backend by wrapping it into modules and creating new levels of abstraction.</p><br>
+
 _5. What is the difference between Node.JS and any other browser?_<br>
 
 <p>In the browser, most of the time what you're doing is interacting with the DOM, or other web platform APIs like Cookies. Those don't exist in Node, of course. You don't have thedocument,windowand all the other objects that the browser provides.
