@@ -72,6 +72,11 @@ _6. What is NVM and Why is it useful for Node.JS developers?_<br>
 
 It is extremely useful in development and testing environments.</p><br>
 
+_2. Node.JS Module System Core Understanding Learning Exercise_ 🧠 <br>
+
+_1. What is a Javascript Module?_<br>
+
+
 
 
 
