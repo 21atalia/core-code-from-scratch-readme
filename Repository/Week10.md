@@ -12,7 +12,7 @@ _1. [React kata](https://www.codewars.com/kata/5a95947f4a6b342636000173)_
 
 <br>
 
-_1. Node.JS Core Understanding Learning Exercise_ 🧠
+## _1. Node.JS Core Understanding Learning Exercise_ 🧠
 
 <br>
 
@@ -72,7 +72,7 @@ In practice, this means that, for the time being, usingarequire()in Node and imp
 
 It is extremely useful in development and testing environments.</p><br>
 
-_2. Node.JS Module System Core Understanding Learning Exercise_ 🧠 <br>
+## _2. Node.JS Module System Core Understanding Learning Exercise_ 🧠 <br>
 
 **_1. What is a Javascript Module?_**<br>
 
