@@ -121,5 +121,9 @@ But over time scripts became increasingly complex, so the community invented a v
 - External modules: They are, in essence, third-party packages distributed through npm (although they can come from other repositories). These packages are installed as dependencies and, although they provide functionality to the application, they should not be included in the repository since they are not part of it.</p>
 
 <br>
+  
+## _3. Node.JS Module System Practice_ 💻 <br>
+  
+
 
 [⬆ Back to homepage](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/README.md)<br>
