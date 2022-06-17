@@ -88,7 +88,10 @@ But over time scripts became increasingly complex, so the community invented a v
 
 **_3. What module standards are available in Node.JS?_**<br>
 
-<p>- NodeJS traditionally supports CommonJS require syntax, and although it supports ESM better and better, it still does not fully support it and has a large community with packages using CommonJS through NPM.
+**_4. What are the differences between ESModules and CommonJS modules?_**
+
+<p>
+- NodeJS traditionally supports CommonJS require syntax, and although it supports ESM better and better, it still does not fully support it and has a large community with packages using CommonJS through NPM.
 
 - CommonJS only allows synchronous loading of modules, while ESM allows both synchronous and asynchronous loading.
 
