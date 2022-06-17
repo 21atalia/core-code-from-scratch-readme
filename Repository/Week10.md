@@ -114,9 +114,9 @@ But over time scripts became increasingly complex, so the community invented a v
   
 <p>There are 3 types of modules. They all work in a similar way but differ in the origin.
 
-Built-in modules: These are the native modules of the Node.js API. They do not need to be installed, as they are included by default with Node.js. Some examples are the fs or stream modules. These packages are only updated if you change the version of Node.js.
-Local modules: These are the modules written by the developers and together form a large part of the application. As you have already read, they are structured in this way in order to be a reusable code.
-External modules: They are, in essence, third-party packages distributed through npm (although they can come from other repositories). These packages are installed as dependencies and, although they provide functionality to the application, they should not be included in the repository since they are not part of it.</p>
+- Built-in modules: These are the native modules of the Node.js API. They do not need to be installed, as they are included by default with Node.js. Some examples are the fs or stream modules. These packages are only updated if you change the version of Node.js.
+- Local modules: These are the modules written by the developers and together form a large part of the application. As you have already read, they are structured in this way in order to be a reusable code.
+- External modules: They are, in essence, third-party packages distributed through npm (although they can come from other repositories). These packages are installed as dependencies and, although they provide functionality to the application, they should not be included in the repository since they are not part of it.</p>
 
 
 
