@@ -12,10 +12,10 @@ _1. [React kata](https://www.codewars.com/kata/5a95947f4a6b342636000173)_
 
 <br>
 
- _1. Node.JS Core Understanding Learning Exercise_ 🧠<br>
- _2. Node.JS Module System Core Understanding Learning Exercise_ 🧠 <br>
+_1. Node.JS Core Understanding Learning Exercise_ 🧠<br>
+_2. Node.JS Module System Core Understanding Learning Exercise_ 🧠 <br>
 _3. Node.JS Module System Practice_ 💻 <br>
-_4. Client-Server Model Learning Exercise 🧠<br>
+_4. Client-Server Model Learning Exercise_ 🧠<br>
   
 
 
