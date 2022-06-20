@@ -12,5 +12,7 @@
 
 <p>a server can be a physical machine, a virtual machine or even a software performing server services. So the way a server functions depends on how the word server is used in a context.</p><br>
 
-   - Why do we refer to a certain class of applications as Servers?
-   - What is the difference?
+- Why do we refer to a certain class of applications as Servers?<br>
+<p>Because they allow us to create local web servers, which is that server installed on a specific computer in order to work offline and online. It is a      particularly useful alternative if we are looking for an environment in which to develop a website or an application and that allows us to perform all kinds of tests without running risks.</p><br>
+
+- What is the difference?
