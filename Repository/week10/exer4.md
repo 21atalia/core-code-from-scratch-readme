@@ -6,4 +6,11 @@
 
 **_2. Why is a Client?_**<br>
 
-<p></p>
+<p>A client is the receiving end of a service or the requestor of a service in a client/server model type of system. The client is most often located on another system or computer, which can be accessed via a network. This term was first used for devices that could not run their own programs, and were connected to remote computers that could via a network. These were called dumb terminals and they were served by time-sharing mainframe computers.</p><br>
+
+**_3. Is a server just another physical computer?_** <br>
+
+<p>a server can be a physical machine, a virtual machine or even a software performing server services. So the way a server functions depends on how the word server is used in a context.</p><br>
+
+   - Why do we refer to a certain class of applications as Servers?
+   - What is the difference?
