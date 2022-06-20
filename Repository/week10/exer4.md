@@ -15,4 +15,10 @@
 - Why do we refer to a certain class of applications as Servers?<br>
 <p>Because they allow us to create local web servers, which is that server installed on a specific computer in order to work offline and online. It is a      particularly useful alternative if we are looking for an environment in which to develop a website or an application and that allows us to perform all kinds of tests without running risks.</p><br>
 
-- What is the difference?
+- What is the difference?<br>
+
+a physical server is a computer configured and capable of providing an internet service, such as allowing access to web pages stored on its hard disk, allowing mail exchange, etc. A virtual server is a logical instance or portion of a physical server, configured to act as a server, that is, within a physical server with the appropriate configuration and software, virtual servers can be created to provide services by distributing the resources of the physical server among several virtual servers as needed.
+
+A somewhat informal comparison would be a familiar package of cookies (physical server) where inside there are several individual cookie packages (virtual server).<br>
+
+
