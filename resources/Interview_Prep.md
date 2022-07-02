@@ -26,7 +26,7 @@ _I have always enjoyed solving software problems under the guidance of the team 
  <br>
  
 ## _3. How do you see yourself in 5 years? (1-2 sentences)_<br>
-    1. Share your career path and include something that could potentially benefit the company
+   1. Share your career path and include something that could potentially benefit the company
     2. Example - “To become a Senior Developer and a Mentor to the team I’ll be working with”
     
 _I am really excited about the Junior Back-end Developer position at your company because in five years, I am sure that I will have a much deeper and broader knowledge about this area and I know that this is something that I could only achieve through my experience with you. In the coming years, I would like to gradually take on more responsibility and, why not, even lead some projects._<br>
@@ -46,7 +46,7 @@ _They are a web platform that connects several /e-Commerce companies with more t
 _6. Why are you interested in this position? (1-2 sentences)<br>
     1. Mention how you can you add value to a team in X position<br>
     
-        1. Tech Skills
+  1. Tech Skills
         - Ability to abstract logic
         - Programming languages: JavaScript, Node, Python.
         - Basic knowledge of web server configurations.<br>
