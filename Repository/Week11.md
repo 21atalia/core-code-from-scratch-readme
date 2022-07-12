@@ -2,7 +2,7 @@
 
 ## Week challenges (Monday) 💻
 <br>
-1. [Forrest Gump Ping-Pong API 🏓](https://github.com/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week11/exercises/API-1.md)<br>
+_1. [Forrest Gump Ping-Pong API 🏓](https://github.com/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week11/exercises/API-1.md)_<br>
 
  >[ Solution📝]
  <br>
