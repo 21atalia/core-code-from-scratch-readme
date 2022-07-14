@@ -48,4 +48,9 @@ This is one of the requirements for the certification, where you'll boost your d
 
 <br>
 
+**_completed_** ✔
+
+<br>
+
+
 [⬆ Back to homepage](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/README.md)<br>
