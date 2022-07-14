@@ -7,9 +7,10 @@ _1. [Forrest Gump Ping-Pong API 🏓](https://github.com/corecodeio/devguide-fro
 
 <br>
 
- >[ Solution📝]
- >
+ >[ Solution📝](https://github.com/21atalia/core-code-from-scratch-readme/tree/main/Repository/Week11/PingPong)
+ 
  <br>
+ 
 - [Delayed Response API ⏳]
 
 ## Week challenges (Tuesday) 💻
