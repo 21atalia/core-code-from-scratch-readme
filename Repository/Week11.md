@@ -25,3 +25,7 @@ _1. [Forrest Gump Ping-Pong API 🏓](https://github.com/corecodeio/devguide-fro
 ## Week challenges (Thursday) 💻
 
 - Work on your project
+
+<br>
+
+[⬆ Back to homepage](https://github.com/21atalia/core-code-from-scratch-readme/blob/main/README.md)<br>
