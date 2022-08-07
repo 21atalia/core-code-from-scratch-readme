@@ -1,4 +1,4 @@
-<h1 align="center">Week 8 : Typescript</h1>
+<h1 align="center">Week 7 : Typescript</h1>
 
 <br>
 
